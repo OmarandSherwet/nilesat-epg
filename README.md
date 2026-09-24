@@ -12,9 +12,6 @@ pass. The published file is `docs/nilesat.xml` and the coverage report is
 
 The public `inputs/services-public.xml` contains only channel names and dummy
 service references. The real Enigma2 service mapping stays on the receiver.
-After creating a GitHub repository, the guide URL will be:
+The live guide URL is:
 
-`https://raw.githubusercontent.com/OWNER/REPO/main/docs/nilesat.xml`
-
-An Enigma2 EPGImport source must use that URL, with a separate private
-`channels.xml` mapping the guide IDs to the receiver service references.
+`https://raw.githubusercontent.com/OmarandSherwet/nilesat-epg/main/docs/nilesat.xml`
