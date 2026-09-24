@@ -30,9 +30,6 @@
   <channel id="nilesat.althania">
     <display-name>Al Thania</display-name>
   </channel>
-  <channel id="nilesat.blippiandfriends">
-    <display-name>Blippi and Friends</display-name>
-  </channel>
   <channel id="nilesat.cartoonnetwork">
     <display-name>Cartoon Network</display-name>
   </channel>
@@ -147,9 +144,6 @@
   <channel id="nilesat.zeealwan">
     <display-name>ZEE ALWAN.</display-name>
   </channel>
-  <programme channel="nilesat.2mmaroc" start="20260924130500 +0000" stop="20260924144500 +0000">
-    <title>Mesk Allayl</title>
-  </programme>
   <programme channel="nilesat.2mmaroc" start="20260924144500 +0000" stop="20260924153500 +0000">
     <title>Sabahiyat 2m</title>
   </programme>
@@ -1254,10 +1248,6 @@
     <title>Business</title>
     <desc>An insight into the changes and happenings in the business and economic sectors of the Arab world.</desc>
   </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20260924140000 +0000" stop="20260924143000 +0000">
-    <title>News</title>
-    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
-  </programme>
   <programme channel="nilesat.aljazeeraenglish" start="20260924143000 +0000" stop="20260924150000 +0000">
     <title>Al Jazeera Explains</title>
   </programme>
@@ -1671,10 +1661,6 @@
   <programme channel="nilesat.aljazeeraenglish" start="20260927093000 +0000" stop="20260927100000 +0000">
     <title>The Bottom Line</title>
     <desc>Taking on the debated issues in the business and political world, plus the kitchen table topics that matter to Americans.</desc>
-  </programme>
-  <programme channel="nilesat.alnahardrama" start="20260924133000 +0000" stop="20260924143000 +0000">
-    <title>Surviving 17 days</title>
-    <desc>New Century Realty celebrates 10 years while bidding on a major development; chaos erupts when the CEO's son, Dong Dong, is kidnapped, turning a corporate triumph into a nightmare.</desc>
   </programme>
   <programme channel="nilesat.alnahardrama" start="20260924143000 +0000" stop="20260924153000 +0000">
     <title>Cry All You Want</title>
@@ -2776,526 +2762,6 @@
   <programme channel="nilesat.althania" start="20260927000000 +0400" stop="20260927010000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924142400 +0000" stop="20260924145300 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924145300 +0000" stop="20260924151500 +0000">
-    <title>بليبي</title>
-    <desc>يقوم بليبي بزيارة رائعة إلى جنوب كاليفورنيا، حيث يصنع فطائر الطين وينطلق في رحلة رائعة بالقطار!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924151500 +0000" stop="20260924153700 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924153700 +0000" stop="20260924155900 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924155900 +0000" stop="20260924162800 +0000">
-    <title>مورفيل</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924162800 +0000" stop="20260924165900 +0000">
-    <title>مورفيل</title>
-    <desc>ميلا ومورفل يحولان المشاكل الصغيرة إلى مغامرات كبيرة! ينقذان كلباً ويساعدان والدهما بعد حادثة شعرية!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924165900 +0000" stop="20260924172700 +0000">
-    <title>أربو</title>
-    <desc>خيال أربو جامح! فهو يعتقد أنه قرصان، ويبني قطارًا أفعوانيًا، ويحارب وحشًا هلاميًا!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924172700 +0000" stop="20260924180600 +0000">
-    <title>أربو</title>
-    <desc>تم تكليف روبوت الكوماندوز في الجيش أربو بأصعب مهمة حتى الآن: مربية الأطفال</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924180600 +0000" stop="20260924184100 +0000">
-    <title>بليبي</title>
-    <desc>قناة "بليبي اند فرندز" هي قناة تلفزيونية تعمل على مدار الساعة طوال أيام الأسبوع من إنتاج موونباغ انترتاينمنت، وتعرض محتوى بليبي وأصدقائه في مشاهد حية.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924184100 +0000" stop="20260924190900 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924190900 +0000" stop="20260924192800 +0000">
-    <title>جيكوز غاراج</title>
-    <desc>ورشة جيكو لإصلاح السيارات تهتم بعملائها! يديرها الميكانيكي المرح جيكو ورفاقه الآليين المخلصين.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924192800 +0000" stop="20260924195400 +0000">
-    <title>جيكوز غاراج</title>
-    <desc>ورشة جيكو لإصلاح السيارات تهتم بعملائها! يديرها الميكانيكي المرح جيكو ورفاقه الآليين المخلصين.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924195400 +0000" stop="20260924202400 +0000">
-    <title>غو باستر</title>
-    <desc>باستر يتعلم وينمو! لقد تغلب على خوفه من مغسلة السيارات وتعلم أهمية صحة الأسنان!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924202400 +0000" stop="20260924204500 +0000">
-    <title>غو باستر</title>
-    <desc>انضم إلى باستر اللطيف والمرح، وهو يخوض مغامرات كبيرة وصغيرة مع أصدقائه!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924204500 +0000" stop="20260924210400 +0000">
-    <title>بليبي ووندرز</title>
-    <desc>بليبي يجيب على أسئلة مهمة! يتعلم كيف ينظف أسنانه، ولماذا نعطس، وكيف تصنع العناكب شبكاتها!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924210400 +0000" stop="20260924212300 +0000">
-    <title>بليبي ووندرز</title>
-    <desc>يخوض بليبي رحلات مذهلة! فهو يتبع رسالة عبر البريد وينطلق في رحلة صاروخية إلى الفضاء الخارجي!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924212300 +0000" stop="20260924215900 +0000">
-    <title>بليبي</title>
-    <desc>بليبي وميكا يبدعان! يتعلمان فن نفخ الزجاج ثم يقضيان يوماً في الرسم والتلوين.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924215900 +0000" stop="20260924222300 +0000">
-    <title>بليبي</title>
-    <desc>يقضي بليبي يوماً رائعاً في ويمبلدون، حيث يستكشف الوظائف، ويحضر الحلويات، ويمارس مهاراته في التنس.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924222300 +0000" stop="20260924224700 +0000">
-    <title>أنتيكس</title>
-    <desc>انضم إلى النملتين الشقيقتين جوي وبو اللتين لديهما شهية للطعام ومستويات ضئيلة من التدمير الجماعي.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924224700 +0000" stop="20260924230800 +0000">
-    <title>أنتيكس</title>
-    <desc>انضم إلى النملتين الشقيقتين جوي وبو اللتين لديهما شهية للطعام ومستويات ضئيلة من التدمير الجماعي.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924230800 +0000" stop="20260924233400 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924233400 +0000" stop="20260924235900 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260924235900 +0000" stop="20260925002800 +0000">
-    <title>مورفل كلاسيكس</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925002800 +0000" stop="20260925005900 +0000">
-    <title>مورفل كلاسيكس</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925005900 +0000" stop="20260925012900 +0000">
-    <title>ليتل أنجل</title>
-    <desc>يغني بيبي جون أغانيه المفضلة عن الحيوانات! يغني عن بينغو وهمبتي دمبتي ويؤدي رقصة بيبي شارك!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925012900 +0000" stop="20260925020000 +0000">
-    <title>ليتل أنجل</title>
-    <desc>تعالوا غنوا مع الطفل جون، وشقيقه جاك، وشقيقته جيل في أغنية الملاك الصغير!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925020000 +0000" stop="20260925021900 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925021900 +0000" stop="20260925023900 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925023900 +0000" stop="20260925030000 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925030000 +0000" stop="20260925034200 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925034200 +0000" stop="20260925040200 +0000">
-    <title>بليبي</title>
-    <desc>هناك الكثير لتتعلمه، سيجعلك ذلك ترغب في الصراخ "بليبي"!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925040200 +0000" stop="20260925043100 +0000">
-    <title>كوكوميلن</title>
-    <desc>حان وقت الغناء والرقص! انضموا إلى جاي جاي وأصدقائه وعائلته للاحتفال بلحظات الحياة الكبيرة للأطفال الصغار.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925043100 +0000" stop="20260925045900 +0000">
-    <title>كوكوميلن</title>
-    <desc>حان وقت الغناء والرقص! انضموا إلى جاي جاي وأصدقائه وعائلته للاحتفال بلحظات الحياة الكبيرة للأطفال الصغار.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925045900 +0000" stop="20260925052900 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925052900 +0000" stop="20260925055400 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925055400 +0000" stop="20260925062600 +0000">
-    <title>إير آسيا بودز أدفنتشرز</title>
-    <desc>انضم إلى أصدقاء طيران آسيا في مغامرة جوية حول العالم، بدءًا من استكشاف محطة إطفاء ومزرعة وصولًا إلى زيارة مدن مثيرة مثل بانكوك.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925062600 +0000" stop="20260925065200 +0000">
-    <title>كوكوميلن</title>
-    <desc>حان وقت الغناء والرقص! انضموا إلى جاي جاي وأصدقائه وعائلته للاحتفال بلحظات الحياة الكبيرة للأطفال الصغار.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925065200 +0000" stop="20260925071700 +0000">
-    <title>كوكوميلن</title>
-    <desc>حان وقت الغناء والرقص! انضموا إلى جاي جاي وأصدقائه وعائلته للاحتفال بلحظات الحياة الكبيرة للأطفال الصغار.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925071700 +0000" stop="20260925073900 +0000">
-    <title>أودبودز</title>
-    <desc>يُثير الأودبودز المشاكل! فيوز يُجبر أصدقاءه على التخلي عن هواتفهم، وبوغو يُصغّر نفسه للمرح!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925073900 +0000" stop="20260925080000 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925080000 +0000" stop="20260925083500 +0000">
-    <title>ميكا</title>
-    <desc>ميكا تُبدع في الأعمال اليدوية! تتعلم استخدام الأدوات لصنع مشروعها الخاص وتصميم قميصها وإكسسواراتها بنفسها!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925083500 +0000" stop="20260925090400 +0000">
-    <title>ميكا</title>
-    <desc>ميكا تستكشف مركز كينيدي للفضاء! تشاهد مكوك أتلانتس الحقيقي وتخوض مهمة افتراضية إلى المريخ!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925090400 +0000" stop="20260925093700 +0000">
-    <title>بليبي</title>
-    <desc>يقضي بليبي يوماً ممتعاً في حديقة الحيوانات، حيث يزور واحدة من أكبر حدائق الحيوانات في العالم ليتعرف على حيوانات السفاري المذهلة.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925093700 +0000" stop="20260925100400 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925100400 +0000" stop="20260925103000 +0000">
-    <title>مياز ماجيك بلايغراوند</title>
-    <desc>انضموا إلى ميا وأفضل أصدقائها أوسكار وتيلي في مغامراتهم الجامحة، وهم يستكشفون أرضًا غريبة الأطوار معًا.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925103000 +0000" stop="20260925105500 +0000">
-    <title>مياز ماجيك بلايغراوند</title>
-    <desc>انضموا إلى ميا وأفضل أصدقائها أوسكار وتيلي في مغامراتهم الجامحة، وهم يستكشفون أرضًا غريبة الأطوار معًا.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925105500 +0000" stop="20260925111800 +0000">
-    <title>إنسكتبلز</title>
-    <desc>انضم إلى مغامرات الصبي الصغير زاك وهو يبحث عن قطع من "جهاز التصغير".</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925111800 +0000" stop="20260925114100 +0000">
-    <title>إنسكتبلز</title>
-    <desc>بعد سباق مع عصابة أديلا للحصول على عدسة خطيرة، يعثر زاك على حقيبة ظهر نفاثة قديمة ويضطر إلى الاعتماد على مساعدة ويلو.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925114100 +0000" stop="20260925120300 +0000">
-    <title>إنسكتبلز</title>
-    <desc>بينما يحاول هاي ولو إحلال السلام في الفناء، تبدأ محاولة الجد للمساعدة في إحداث نتائج عكسية.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925120300 +0000" stop="20260925123400 +0000">
-    <title>إير آسيا بودز أدفنتشرز</title>
-    <desc>انضم إلى أصدقاء طيران آسيا في مغامرة جوية حول العالم، بدءًا من استكشاف محطة إطفاء ومزرعة وصولًا إلى زيارة مدن مثيرة مثل بانكوك.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925123400 +0000" stop="20260925125600 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925125600 +0000" stop="20260925131700 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925131700 +0000" stop="20260925133700 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925133700 +0000" stop="20260925135800 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925135800 +0000" stop="20260925141800 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925141800 +0000" stop="20260925144700 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925144700 +0000" stop="20260925151700 +0000">
-    <title>بليبي</title>
-    <desc>بليبي وميكا مستكشفان بيئيان! يتعلمان عن التسميد والزراعة واستخدام الطاقة الشمسية في مضمار السباق.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925151700 +0000" stop="20260925153800 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925153800 +0000" stop="20260925160000 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925160000 +0000" stop="20260925163100 +0000">
-    <title>مورفيل</title>
-    <desc>ميلا ومورفل يحولان المشاكل الصغيرة إلى مغامرات كبيرة! ينقذان كلباً ويساعدان والدهما بعد حادثة شعرية!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925163100 +0000" stop="20260925170000 +0000">
-    <title>مورفيل</title>
-    <desc>ميلا ومورفل يحلان الألغاز! يعثران على قلادة مسروقة ويسافران إلى المستقبل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925170000 +0000" stop="20260925172500 +0000">
-    <title>أربو</title>
-    <desc>الطفل دانيال يُثير الفوضى! لقد وجد جهاز التحكم عن بعد الخاص بأربو، وأحدث فوضى عارمة في جميع أنحاء المطبخ!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925172500 +0000" stop="20260925175900 +0000">
-    <title>أربو</title>
-    <desc>تم تكليف روبوت الكوماندوز في الجيش أربو بأصعب مهمة حتى الآن: مربية الأطفال</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925175900 +0000" stop="20260925184700 +0000">
-    <title>بليبي</title>
-    <desc>بليبي في مغامرة في لندن! يستكشف متحف النقل، ومتحف سلاح الجو الملكي، ويبحر في نهر التايمز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925184700 +0000" stop="20260925191600 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925191600 +0000" stop="20260925193900 +0000">
-    <title>جيكوز غاراج</title>
-    <desc>إنه يوم عظيم للعمل الجماعي! ينهي فريق الميكانيكيين مهمةً ما بعد إصابة جيكو، ويساعد جيكو السيد ويزل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925193900 +0000" stop="20260925195900 +0000">
-    <title>جيكوز غاراج</title>
-    <desc>ورشة جيكو لإصلاح السيارات تهتم بعملائها! يديرها الميكانيكي المرح جيكو ورفاقه الآليين المخلصين.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925195900 +0000" stop="20260925203100 +0000">
-    <title>غو باستر</title>
-    <desc>تتحقق أحلام باستر! يحلم بأنه سمكة في البحر وينطلق إلى الفضاء كصاروخ!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925203100 +0000" stop="20260925205900 +0000">
-    <title>غو باستر</title>
-    <desc>انضم إلى باستر اللطيف والمرح، وهو يخوض مغامرات كبيرة وصغيرة مع أصدقائه!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925205900 +0000" stop="20260925211800 +0000">
-    <title>بليبي ووندرز</title>
-    <desc>يتعلم بليبي حقائق مذهلة عن الحيوانات! يكتشف عدد أسنان سمكة القرش وكيف يكون التيرانوصور ريكس كحيوان أليف!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925211800 +0000" stop="20260925213700 +0000">
-    <title>بليبي ووندرز</title>
-    <desc>يتساءل بليبي عن كيفية عمل الأشياء! ويتعلم كيف يُصنع العسل، وكيف تُبنى الرافعات، وكيف كانت السيارات الأولى!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925213700 +0000" stop="20260925222400 +0000">
-    <title>بليبي</title>
-    <desc>يصبح بليبي لاعب كرة سلة محترفاً، ويتعلم النصائح والحيل من نجمات دوري كرة السلة النسائي الأمريكي (WNBA) ودوري كرة السلة الأمريكي للمحترفين (NBA).</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925222400 +0000" stop="20260925224500 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925224500 +0000" stop="20260925232100 +0000">
-    <title>أنتيكس</title>
-    <desc>انضم إلى النملتين الشقيقتين جوي وبو اللتين لديهما شهية للطعام ومستويات ضئيلة من التدمير الجماعي.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925232100 +0000" stop="20260925235800 +0000">
-    <title>أنتيكس</title>
-    <desc>انضم إلى النملتين الشقيقتين جوي وبو اللتين لديهما شهية للطعام ومستويات ضئيلة من التدمير الجماعي.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260925235800 +0000" stop="20260926002800 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926002800 +0000" stop="20260926005900 +0000">
-    <title>أودبودز</title>
-    <desc>إنه يوم مليء بالتغييرات الكبيرة! يقوم بوغو بتنويم جيف مغناطيسياً ليتصرف ككلب، ويُجبر زي وجيف على العيش معاً!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926005900 +0000" stop="20260926013200 +0000">
-    <title>مورفل كلاسيكس</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926013200 +0000" stop="20260926020000 +0000">
-    <title>مورفل كلاسيكس</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926020000 +0000" stop="20260926022000 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926022000 +0000" stop="20260926024100 +0000">
-    <title>سوبا سترايكس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926024100 +0000" stop="20260926030100 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926030100 +0000" stop="20260926033100 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926033100 +0000" stop="20260926041300 +0000">
-    <title>بليبي: سبيشيلز</title>
-    <desc>يحتفل بليبي بيوم الأرض! ينطلق في مغامرة خضراء رائعة لحل الألغاز ومساعدة البيئة.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926041300 +0000" stop="20260926045800 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926045800 +0000" stop="20260926052500 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926052500 +0000" stop="20260926055200 +0000">
-    <title>مورفل كلاسيكس</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926055200 +0000" stop="20260926061200 +0000">
-    <title>مورفل كلاسيكس</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926061200 +0000" stop="20260926063500 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926063500 +0000" stop="20260926065900 +0000">
-    <title>أودبودز</title>
-    <desc>الأودبودز في ورطة! سليك "يستعير" إحدى أفكار بابلز، وبوغو يُطرد من منزل فيوز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926065900 +0000" stop="20260926073000 +0000">
-    <title>إير آسيا بودز أدفنتشرز</title>
-    <desc>انضم إلى أصدقاء طيران آسيا في مغامرة جوية حول العالم، بدءًا من استكشاف محطة إطفاء ومزرعة وصولًا إلى زيارة مدن مثيرة مثل بانكوك.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926073000 +0000" stop="20260926074900 +0000">
-    <title>بليبي ووندرز</title>
-    <desc>بليبي في مغامرة حيوانية! يتعلم لماذا تدفن السناجب المكسرات، وكيف ترى الخفافيش، وكيف تطفو البط!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926074900 +0000" stop="20260926080800 +0000">
-    <title>بليبي ووندرز</title>
-    <desc>انضم إلى بليبي في رحلته للبحث عن المعرفة في هاتفه المحمول بليبي موبايل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926080800 +0000" stop="20260926083000 +0000">
-    <title>إنسكتبلز</title>
-    <desc>انضم إلى مغامرات الصبي الصغير زاك وهو يبحث عن قطع من "جهاز التصغير".</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926083000 +0000" stop="20260926085300 +0000">
-    <title>إنسكتبلز</title>
-    <desc>انضم إلى مغامرات الصبي الصغير زاك وهو يبحث عن قطع من "جهاز التصغير".</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926085300 +0000" stop="20260926091500 +0000">
-    <title>إنسكتبلز</title>
-    <desc>تجربة زاك في تقليص الحجم تفشل، مما يؤدي به وبأصدقائه إلى الوقوع في براثن الشرير أديلا.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926091500 +0000" stop="20260926093600 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926093600 +0000" stop="20260926100100 +0000">
-    <title>أودبودز</title>
-    <desc>إنها منافسة سباق وتحدي بطولي! يخوض فريق أودبودز سباق سيارات ألعاب، ويتنافس فيوز وبابلز ليصبحا بطلين!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926100100 +0000" stop="20260926103200 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926103200 +0000" stop="20260926105800 +0000">
-    <title>بليبي</title>
-    <desc>يتعلم بليبي كيفية الاعتناء بالحيوانات! يلعب مع الحيوانات الأليفة ويتعلم كيفية تنظيفها في ملجأ للحيوانات!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926105800 +0000" stop="20260926113700 +0000">
-    <title>بليبي</title>
-    <desc>يقضي بليبي يوماً رائعاً في حديقة الحيوانات! يصبح حارساً للحيوانات ليوم واحد ويتعرف على الكثير من حيوانات الحديقة المذهلة!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926113700 +0000" stop="20260926120400 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926120400 +0000" stop="20260926122500 +0000">
-    <title>تي-راكس رانش</title>
-    <desc>انتقلت الديناصورات إلى كاليفورنيا! قام حراس المحمية بنقل آخر ديناصور واحتفلوا بحفلة بجانب المسبح!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926122500 +0000" stop="20260926124500 +0000">
-    <title>تي-راكس رانش</title>
-    <desc>يمتلك حراس المتنزه أدوات جديدة رائعة! يستخدمون عباءة غير مرئية لخداع ديناصور تي-ريكس ومترجم ديناصورات!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926124500 +0000" stop="20260926130600 +0000">
-    <title>تي-راكس رانش</title>
-    <desc>حراس الغابات هم محققون متخصصون في الديناصورات! إنهم يتعقبون ديناصورًا من نوع تي-ريكس لإكمال دليل سياحي ويتبعون آثار أقدام ديناصورات غامضة!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926130600 +0000" stop="20260926132600 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926132600 +0000" stop="20260926134700 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926134700 +0000" stop="20260926140700 +0000">
-    <title>سوبا ستريكاس</title>
-    <desc>يجب على فريق سوبر سترايكرز استخدام مهاراتهم وعزيمتهم للفوز بكأس الدوري الممتاز!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926140700 +0000" stop="20260926151500 +0000">
-    <title>بليبي: سبيشيلز</title>
-    <desc>إنها مغامرة ديناصورات كبيرة! على بليبي وميكا العثور على بيض الديناصورات المفقود قبل أن يفقس.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926151500 +0000" stop="20260926155200 +0000">
-    <title>بليبي</title>
-    <desc>قناة "بليبي اند فرندز" هي قناة تلفزيونية تعمل على مدار الساعة طوال أيام الأسبوع من إنتاج موونباغ انترتاينمنت، وتعرض محتوى بليبي وأصدقائه في مشاهد حية.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926155200 +0000" stop="20260926162500 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926162500 +0000" stop="20260926165900 +0000">
-    <title>أودبودز</title>
-    <desc>قناة "بليبي اند فرندز" هي قناة تلفزيونية تعمل على مدار الساعة طوال أيام الأسبوع من إنتاج موونباغ انترتاينمنت، وتعرض محتوى بليبي وأصدقائه في مشاهد حية.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926165900 +0000" stop="20260926173000 +0000">
-    <title>إير آسيا بودز أدفنتشرز</title>
-    <desc>انضم إلى أصدقاء طيران آسيا في مغامرة جوية حول العالم، بدءًا من استكشاف محطة إطفاء ومزرعة وصولًا إلى زيارة مدن مثيرة مثل بانكوك.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926173000 +0000" stop="20260926180700 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926180700 +0000" stop="20260926182700 +0000">
-    <title>بليبي</title>
-    <desc>تعال واستكشف العالم مع بليبي! هناك الكثير من الأشياء المثيرة للاستكشاف والتعلم. أشبع فضول أطفالك بينما يتعلمون عن المركبات، الحيوانات والعالم الطبيعي وغير ذلك الكثير.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926182700 +0000" stop="20260926185200 +0000">
-    <title>أنتيكس</title>
-    <desc>انضم إلى النملتين الشقيقتين جوي وبو اللتين لديهما شهية للطعام ومستويات ضئيلة من التدمير الجماعي.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926185200 +0000" stop="20260926191400 +0000">
-    <title>أنتيكس</title>
-    <desc>انضم إلى النملتين الشقيقتين جوي وبو اللتين لديهما شهية للطعام ومستويات ضئيلة من التدمير الجماعي.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926191400 +0000" stop="20260926194800 +0000">
-    <title>بليبي</title>
-    <desc>يقضي بليبي يوماً رياضياً! يتعلم كرة القدم مع جو هادن، ويخوض مساراً مليئاً بالعقبات، ويجرب التزلج!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926194800 +0000" stop="20260926201100 +0000">
-    <title>بليبي أند ميكاز غايم شوو</title>
-    <desc>إنه يوم مليء بالمنافسة والألعاب لعائلتين في برنامج الألعاب الذي يقدمه بليبي وميكا!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926201100 +0000" stop="20260926203200 +0000">
-    <title>جيكوز غاراج</title>
-    <desc>ورشة جيكو لإصلاح السيارات تهتم بعملائها! يديرها الميكانيكي المرح جيكو ورفاقه الآليين المخلصين.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926203200 +0000" stop="20260926205900 +0000">
-    <title>جيكوز غاراج</title>
-    <desc>جيكو في مهمات إنقاذ بالغة الأهمية! ينقذ إريك من عاصفة ويوقف شاحنة تعمل بالصواريخ!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926205900 +0000" stop="20260926213000 +0000">
-    <title>غو باستر</title>
-    <desc>تتحقق أحلام باستر! يحلم بأنه سمكة في البحر وينطلق إلى الفضاء كصاروخ!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926213000 +0000" stop="20260926215900 +0000">
-    <title>غو باستر</title>
-    <desc>باستر يتعلم وينمو! لقد تغلب على خوفه من مغسلة السيارات وتعلم أهمية صحة الأسنان!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926215900 +0000" stop="20260926222800 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926222800 +0000" stop="20260926225900 +0000">
-    <title>أودبودز</title>
-    <desc>تابعوا مغامرات الأودبودز الغريبة في أودزفيل!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926225900 +0000" stop="20260926233100 +0000">
-    <title>مورفيل</title>
-    <desc>مسلسل تلفزيوني ناجح للأطفال الصغار والأطفال الأكبر سنًا. يمكن أن يتحول مورفل إلى أي شيء تريده صديقته البشرية ميلا. من الديناصورات إلى السيارات ومركبات البناء مثل الحفارات، الشاحنات القلابة والرافعات إلى الحيوانات الأليفة مثل القطط، الكلاب والأسود!</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926233100 +0000" stop="20260926235900 +0000">
-    <title>مورفيل</title>
-    <desc>مهما كانت احتياجات المدينة، ستعمل ميلا وحيوانها الأليف السحري، مورفل، معًا لإنقاذ الموقف.</desc>
-  </programme>
-  <programme channel="nilesat.blippiandfriends" start="20260926235900 +0000" stop="20260927003300 +0000">
-    <title>أربو</title>
-    <desc>تم تكليف روبوت الكوماندوز في الجيش أربو بأصعب مهمة حتى الآن: مربية الأطفال</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20260924142500 +0000" stop="20260924143500 +0000">
-    <title>غوت غيرل</title>
-    <desc>جيجي تصبح رئيسة نادي الألعاب البهلوانية، مما يثير استياء سولي.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20260924143500 +0000" stop="20260924144500 +0000">
-    <title>غوت غيرل</title>
-    <desc>تساعد جيجي وسايج وفرن بلانش - التي لا تريد أي مساعدة.</desc>
-  </programme>
   <programme channel="nilesat.cartoonnetwork" start="20260924144500 +0000" stop="20260924145500 +0000">
     <title>تين تايتنز، غو!</title>
     <desc>يتمنى ذا تايتنز أمنيات على عظمة الأمنيات لكن عندما تنكسر، يتوجب عليهم السفر إلى أرض غوبل-غوبل لتصحيح الأمور</desc>
@@ -3429,7 +2895,7 @@
     <desc>في خضم موجة حر شديدة، يطلب ريتشارد من غامبول وداروين وأنايس مساعدته في مهمته للقفز في المسبح الجديد الذي ركبه عائلة روبنسون.</desc>
   </programme>
   <programme channel="nilesat.cartoonnetwork" start="20260924212000 +0000" stop="20260924213000 +0000">
-    <title>ذا واندرفولي ويرد وورلد أوف غومبال</title>
+    <title>ذا ووندرفولي ويرد وورلد أوف غومبال</title>
     <desc>أهلاً بكم مجدداً في إلمور، حيث قوانين الواقع مجرد مزحة، والحياة الأسرية ليست عادية على الإطلاق.</desc>
   </programme>
   <programme channel="nilesat.cartoonnetwork" start="20260924213000 +0000" stop="20260924214000 +0000">
@@ -4451,10 +3917,6 @@
   <programme channel="nilesat.cartoonnetwork" start="20260926235000 +0000" stop="20260927000000 +0000">
     <title>ذا أميزينج وورلد أوف جامبول - عالم غامبول المُدهش</title>
     <desc>ريتشارد لديه خوذة دراجة نارية عالقة على رأسه.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20260924140000 +0000" stop="20260924143000 +0000">
-    <title>CGTN a News</title>
-    <desc>Reporting breaking news, important information and Chinese government’s standpoint and views on crucial international issues, CGTN A News is also focusing on friendly exchanges and cooperation.</desc>
   </programme>
   <programme channel="nilesat.cgtnarabic" start="20260924143000 +0000" stop="20260924150000 +0000">
     <title>China on the Move</title>
@@ -6182,14 +5644,6 @@
   </programme>
   <programme channel="nilesat.egyptiantv" start="20260926230000 +0400" stop="20260927010000 +0400">
     <title>برنامج من ماسبيرو</title>
-  </programme>
-  <programme channel="nilesat.france24english" start="20260924140000 +0000" stop="20260924143000 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20260924143000 +0000" stop="20260924144500 +0000">
-    <title>Middle East Matters</title>
-    <desc>Entertainment programming.</desc>
   </programme>
   <programme channel="nilesat.france24english" start="20260924144500 +0000" stop="20260924150000 +0000">
     <title>People and Profit</title>
@@ -8595,16 +8049,6 @@ Venice Film Festival.</desc>
     <desc>S2 E13
 الأخيرة.</desc>
   </programme>
-  <programme channel="nilesat.mbc3" start="20260924141500 +0000" stop="20260924143000 +0000">
-    <title>Pet Hotel موس</title>
-    <desc>S1 E7
-في فندق الحيوانات المرح، يستقبل بوبو وليلي وناي ناي وفيكي ضيوفهم الجدد. ومع ابتكارات روبين وطرافة كل حيوان، تنطلق يوميا مغامرات مليئة بالضحك والمعرفة.\r.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20260924143000 +0000" stop="20260924144500 +0000">
-    <title>أطفال المزرعة  موس</title>
-    <desc>S1 E49
-الشاب اللطيف.</desc>
-  </programme>
   <programme channel="nilesat.mbc3" start="20260924144500 +0000" stop="20260924150000 +0000">
     <title>أطفال المزرعة  موس</title>
     <desc>S1 E50
@@ -10195,11 +9639,6 @@ Venice Film Festival.</desc>
     <desc>S4 E16
 تتواصل الأحداث الشيقة في حارة الضبع لتعكس واقع الحياة اليومية في مدينة دمشق خلال العام 1929، ولتبرز الخلفية التاريخية والسياسية لتلك الحقبة. وفي قالب ميلودرامي اجتماعي ممتع، تعرض شخصيات الحارة الصراع الأزلي بين الخير والشر والوطنية والخيانة.</desc>
   </programme>
-  <programme channel="nilesat.mbciraq" start="20260924140000 +0000" stop="20260924144100 +0000">
-    <title>علي كلاي  موس</title>
-    <desc>S1 E24
-يخوض ملاكم واعد معارك لا تنتهي في حلبة الحياة، حيث تنهال اللكمات من العائلة والمجتمع والأحبة. لكن الخصم الأشرس هو ماض محمل بذنوب من حوله، مهددا بتحطيم حاضره ومستقبله.</desc>
-  </programme>
   <programme channel="nilesat.mbciraq" start="20260924150000 +0000" stop="20260924154500 +0000">
     <title>عودة خالتي  موس</title>
     <desc>S1 E10
@@ -10937,10 +10376,6 @@ Venice Film Festival.</desc>
     <title>غنيلي بالجو  موس</title>
     <desc>S1 E4
 مايا دياب.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasrdrama" start="20260924175000 +0400" stop="20260924183000 +0400">
-    <title>بين السطور</title>
-    <desc>تحاول الإعلامية (هند سالم) التقدم أكثر في عملها عن طريق  البحث عن استضافة شخص مشهور، إلا أنها بسبب ذلك تتورط في قضية كبيرة تكشف الكثير عن ماضيها وعن وجود قصة حب قديمة مع هذا الشخص.</desc>
   </programme>
   <programme channel="nilesat.mbcmasrdrama" start="20260924183000 +0400" stop="20260924191500 +0400">
     <title>أفراح إبليس ج3</title>
@@ -12203,10 +11638,6 @@ Venice Film Festival.</desc>
   <programme channel="nilesat.one" start="20260926233000 +0400" stop="20260927010000 +0400">
     <title>برنامج الكلاسيكو</title>
   </programme>
-  <programme channel="nilesat.onedrama" start="20260924173000 +0400" stop="20260924183000 +0400">
-    <title>Cherry Season</title>
-    <desc>تدور قصة العمل عن فتاة حلمها الأكبر أن تصبح مصممة ناجحة،  تعيش حياتها مع والدتها وأخوها، تقع في حب شخص لا يلتفت إليها أبدًا، وهذا الشخص يقع في حب صديقتها المقربة، ثم تقابل شخص آخر مرح ووسيم وتقع في حبه.</desc>
-  </programme>
   <programme channel="nilesat.onedrama" start="20260924183000 +0400" stop="20260924193000 +0400">
     <title>My Siblings</title>
     <desc>تدور أحداث المسلسل في إطار درامي حول حياة ومصير أربعة إخوة  بعد وفاة والدهم، حيث يضطرون للكفاح في الحياة ومواجهة مصاعبها التي يمرون بها، ثم تتوالى الأحداث.</desc>
@@ -12600,8 +12031,8 @@ Venice Film Festival.</desc>
     <desc>يعلم هشام البحيري أن والده قد حرمه من الميراث، ووهب كل ثروته لشقيقه اﻷكبر، وهو ما يدفعه لتدبير جريمة قتل شقيقه لتبدو وكأنها دفاع عن الشرف، وذلك حين يقتل هشام زوجته مع شقيقه.</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaksa" start="20260924200000 +0000" stop="20260924220000 +0000">
-    <title>النمر الأسود</title>
-    <desc>يسافر محمد حسن للعمل في ألمانيا ويواجه صعوبات في الاندماج والعنصرية. يتعرف على فتاة ألمانية ومدرب ملاكمة يوناني يجيد العربية، يساعدانه في تعلم اللغة وتحقيق أحلامه في الملاكمة. يتحول إلى بطل.</desc>
+    <title>العذراء والشعر الأبيض</title>
+    <desc>تكتشف دولت عقمها ويطلقها زوجها، ثم تتزوج الشاب الفقير مدحت ويصبح ناجحًا في الأعمال، ويقع في حب بثينة التي تصبح في سن المراهقة.</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaksa" start="20260924220000 +0000" stop="20260925000000 +0000">
     <title>المش مهندس حسن</title>
@@ -12652,8 +12083,8 @@ Venice Film Festival.</desc>
     <desc>تدور قصة الفيلم في إطار كوميدي حول شاب مستهتر ويعشق النجومية والشهرة، ويتقابل بالصدفة مع الفنانة نيللي كريم بشخصها، ويقع فى حبها وتحدث مفارقات كوميدية.</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaksa" start="20260925200000 +0000" stop="20260925220000 +0000">
-    <title>مين فينا الحرامي</title>
-    <desc>عماره عادل امام بإختلاس نصف مليون جنيه من الشركه التى يعمل بها بمساعدة اسماعيل الهلباوى احمد بدير ورنده منيرفا الموظفين بالشركه وبتسهيل من رئيسمجلس إدارة الشركه الاستاذ عاصم صلاح نظمى وقام شريف بإخفاءالمبلغ فى عمود سريرنحاس بمنزله قبل القبض عليه وحكم عليه بالسجن ١٠ سنوات عاد من لندن حسين عماره عادل امام شقيق شريف التوأم مع سحر شريهان الصحفية إبنة الاستاذ عاصم وذلكبعد ان فشل فى عمله بالخارج كان حسين عكس أخيه شريف إنسان طيب متردد غير واثق فى نفسه ويميل الى المثالية صعق حسين عندما علم بفعلة شقيقه شريف وزاره فىالسجن ولأمه على فعلته وظن الجميع ان شريف باح لحسين بمكان النقود فتقرب الجميعمنه وتوددوا اليه لمعرفة مكان النقود دون جدوى فقد كان لا يعلم قام حسين بتجديد الشقهوباع أثاثها القديم بما فيه السرير النحاسى ولكن شريف اخبره ان النقود موجوده بالسريروطالبه بالبحث عنه وبدأت مطاردة السرير الذى انتقل من يد الى اخرى فقد حاول استعادتهمن المعلم مسمار حسان اليمانى فوجده قد باعه لصالة مزادات فإشتراه حسين ولكنه اكتشف انه ليس المطلوب فتابع رحلته عند عزيز مشاوير الحانوتى الذى باعه للمعلم عضمهالجزار نعيم عيسى وهنا بدل شريف ملابسه مع حسين اثناء زيارته له فى السجن خرجشريف للبحث عن السرير وذهب للمعلم عضمه على انه حدوءه ابو دومه ابن بيومى الجعر ابن اخته وحاول دخول شقته عند زوجته الغندوره فريده سيف النصر وضبطه تحت السريرمع الغندوره فطارده وفى السجن حاول المأمور سامى عطايا بمساعدة المسجون دنقل على الشريف تهريب حسين حتى يراقبه البوليس لمعرفة مكان النقود ولكن دون جدوى فقدكان حسين يمتنع عن الهرب فى اللحظات الأخيره هدد حسين بإفشاء السر اذا لم يعودشريف للسجن بدلا منه مما دعا شريف للانصياع للتهديد قبض على المعلم فى قضيه ذبحخارج السلخانه ودخل السجن مع شريف اخيراً وافق شريف على اخر محاوله للمأمور وتنقل بالهرب وبالفعل هرب وذهب للغندوره وعلم ان المعلم باع السرير لتاجر موبيليا شكرىمنصور الذى باعه بدوره لشاكر المنشى حسن حسين الذى أهداه لعشيقته الراقصه سونيا الراقصه زيزى مصطفى والتى خرج عشيقها السابق قدوره عماد محرم من السجن ابلغشريف زوجة شاكر اعتدال فاتن فؤاد بوجود زوجها عند سونيا فإجتمع الجميع بالمنزلودارت معركه تمكن شريف خلالها من نزع عمود السرير الموجود به النقود ودار صراع بينشريف وحسين من ناحيه وبين عاصم وإسماعيل وروده وقدوره من ناحية اخرى حول عمود السرير وفى النهايه حضر البوليس حسين الشريف وقبض على الجميع بينما تزوج حسين من سحر</desc>
+    <title>النمر الأسود</title>
+    <desc>يسافر محمد حسن للعمل في ألمانيا ويواجه صعوبات في الاندماج والعنصرية. يتعرف على فتاة ألمانية ومدرب ملاكمة يوناني يجيد العربية، يساعدانه في تعلم اللغة وتحقيق أحلامه في الملاكمة. يتحول إلى بطل.</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaksa" start="20260925220000 +0000" stop="20260926000000 +0000">
     <title>حياة أو موت</title>
@@ -12700,8 +12131,8 @@ Venice Film Festival.</desc>
     <desc>يُجبر "خالد الصاوي" على إقامة حفل زفاف ودفع مجاملات لتغطية ديونه، لكنه يفتقد لحظة فرح عند وفاة والدته، فهل ينجح في إتمام حفل الزفاف أم يضطر للإنسحاب؟</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaksa" start="20260926200000 +0000" stop="20260926220000 +0000">
-    <title>التعويذة</title>
-    <desc>تدور قصة الفيلم حول عائلة ترفض بيع منزلها القديم لأحد رجال الأعمال. فتحدث أحداث غريبة بالمنزل، حيث يحترق الأثاث ويقطر الحمام بالدماء، وتتصاعد الأحداث</desc>
+    <title>مين فينا الحرامي</title>
+    <desc>عماره عادل امام بإختلاس نصف مليون جنيه من الشركه التى يعمل بها بمساعدة اسماعيل الهلباوى احمد بدير ورنده منيرفا الموظفين بالشركه وبتسهيل من رئيسمجلس إدارة الشركه الاستاذ عاصم صلاح نظمى وقام شريف بإخفاءالمبلغ فى عمود سريرنحاس بمنزله قبل القبض عليه وحكم عليه بالسجن ١٠ سنوات عاد من لندن حسين عماره عادل امام شقيق شريف التوأم مع سحر شريهان الصحفية إبنة الاستاذ عاصم وذلكبعد ان فشل فى عمله بالخارج كان حسين عكس أخيه شريف إنسان طيب متردد غير واثق فى نفسه ويميل الى المثالية صعق حسين عندما علم بفعلة شقيقه شريف وزاره فىالسجن ولأمه على فعلته وظن الجميع ان شريف باح لحسين بمكان النقود فتقرب الجميعمنه وتوددوا اليه لمعرفة مكان النقود دون جدوى فقد كان لا يعلم قام حسين بتجديد الشقهوباع أثاثها القديم بما فيه السرير النحاسى ولكن شريف اخبره ان النقود موجوده بالسريروطالبه بالبحث عنه وبدأت مطاردة السرير الذى انتقل من يد الى اخرى فقد حاول استعادتهمن المعلم مسمار حسان اليمانى فوجده قد باعه لصالة مزادات فإشتراه حسين ولكنه اكتشف انه ليس المطلوب فتابع رحلته عند عزيز مشاوير الحانوتى الذى باعه للمعلم عضمهالجزار نعيم عيسى وهنا بدل شريف ملابسه مع حسين اثناء زيارته له فى السجن خرجشريف للبحث عن السرير وذهب للمعلم عضمه على انه حدوءه ابو دومه ابن بيومى الجعر ابن اخته وحاول دخول شقته عند زوجته الغندوره فريده سيف النصر وضبطه تحت السريرمع الغندوره فطارده وفى السجن حاول المأمور سامى عطايا بمساعدة المسجون دنقل على الشريف تهريب حسين حتى يراقبه البوليس لمعرفة مكان النقود ولكن دون جدوى فقدكان حسين يمتنع عن الهرب فى اللحظات الأخيره هدد حسين بإفشاء السر اذا لم يعودشريف للسجن بدلا منه مما دعا شريف للانصياع للتهديد قبض على المعلم فى قضيه ذبحخارج السلخانه ودخل السجن مع شريف اخيراً وافق شريف على اخر محاوله للمأمور وتنقل بالهرب وبالفعل هرب وذهب للغندوره وعلم ان المعلم باع السرير لتاجر موبيليا شكرىمنصور الذى باعه بدوره لشاكر المنشى حسن حسين الذى أهداه لعشيقته الراقصه سونيا الراقصه زيزى مصطفى والتى خرج عشيقها السابق قدوره عماد محرم من السجن ابلغشريف زوجة شاكر اعتدال فاتن فؤاد بوجود زوجها عند سونيا فإجتمع الجميع بالمنزلودارت معركه تمكن شريف خلالها من نزع عمود السرير الموجود به النقود ودار صراع بينشريف وحسين من ناحيه وبين عاصم وإسماعيل وروده وقدوره من ناحية اخرى حول عمود السرير وفى النهايه حضر البوليس حسين الشريف وقبض على الجميع بينما تزوج حسين من سحر</desc>
   </programme>
   <programme channel="nilesat.rotanaclassic" start="20260924130000 +0000" stop="20260924170000 +0000">
     <title>الزعيم</title>

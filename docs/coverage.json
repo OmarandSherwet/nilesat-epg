@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-09-24T14:29:02.601596+00:00",
+  "generated_utc": "2026-09-24T14:49:08.625843+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
-  "channels_with_real_programmes": 49,
-  "programmes": 3671,
+  "channels_with_real_programmes": 48,
+  "programmes": 3530,
   "programmes_by_source": {
-    "Arabic elCinema": 1335,
-    "IPTV EPG Egypt": 536,
-    "nilesat-grab.xml": 1800
+    "Arabic elCinema": 1333,
+    "IPTV EPG Egypt": 533,
+    "nilesat-grab.xml": 1664
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -265,6 +265,7 @@
     "Beirut Drama",
     "Beit ElDrama",
     "Beity TV",
+    "Blippi and Friends",
     "Bloomberg Originals",
     "Bloomberg TV",
     "CBC Drama",
