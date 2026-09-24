@@ -1,0 +1,2963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e2servicelist>
+  <e2service>
+    <e2servicename>1 IRAQ Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>2M Maroc</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>2M MAROC HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>4G TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>5 KIDS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>5 Movies</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>a konoz Alhayat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>A TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>A3 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Abu Dhabi TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AD Nat Geo HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AD Sport 1 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AD Sport 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aden</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aden Almustakilla</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aden TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aden TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AFAQ TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AGHAPY TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Ahwas State TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AJMAN HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Aghile Talebin TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL AHAD HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ahly HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ahly SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Alam HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Alam Syria</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Aoula inter</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Arabiya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Arabiya Business</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al ARABY 2 TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL ARABY TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL ARABY TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL AYAM HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Basira</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Basra</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL DAFRA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Dawaar</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ekhbaria</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ekhbaria HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Eman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Emarat TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL ESHRAQ TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Etejah TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Fath Sonnah TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Forat HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ghad Channel</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ghadeer</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Hadath</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL HADATH HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Hayat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Hiwar TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Horreya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera Documentary</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera Documentary HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera English</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera English HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera Mubasher</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Jazeera Mubasher HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al joumhouriya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Kahera Wal Nas</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Kahera Wal Nas +2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Karma Family</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Kawthar HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL KERAZA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL MALAKOOT SATÃTHE KINGDOM SAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Mashhad</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Masryia HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL Masryia SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Mawsleya HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Mayadeen HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL MAYADEEN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL NADA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Nas</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL NOJABA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ons TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Ostoura</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL oula</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL Oula HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Qahera News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Qahera News SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Qamar HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Quds Al Yawm</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Quran</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Rabiaa TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL RAHMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL RASHEED TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Rayyan Al Qadeem HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Rayyan HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL Resala</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SABAH</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Sahat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SALAM TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL Shams</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Shams Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHARQIYA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHARQIYA NEWS HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHASHA ALWAN</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHASHA CINEMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHASHA DRAMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHASHA FILM</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHASHA HEKAYAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SHASHA MOSLSLAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SIRAT TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Sukariya Classic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL SUMARIA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al TALEAA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Thania</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Thaqafeya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL THAQALAYN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Watania 24</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al Wousta from Al Dhaid HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Ahvaz</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL-AKHBAR</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL-Anbar</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Aqila TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Arabiya Alhadath</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Awhad TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Bawadi</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Falloja</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Ganob</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL-KAFEL TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Mahdi</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Majd3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Marjaeyoun TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL-MUSTAKILA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Nahar Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Nahar Life</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Nahar One</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Shaaer TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al-Shahed TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AL24 News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Al3ylh TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alanwar TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlAraby2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALASKANDRIA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALASSEMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alatawla Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alatawla Hekayat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alatwla Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alawla Iraq TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Albaghdadiya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Albalad TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Albeit Betak</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aldawla TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALDELTA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alerth-Alnbawi</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALFA CINEMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALFA DRAMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALFA HEKAYAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALFATH TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Algerian 4Kids</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlHadath Alyoum</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alhara</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALHAWYAH TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALhayah ALaan</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALhayat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlHayat 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlHayat 3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlHayat HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alhayat Muslsalat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlHayat Sport</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alhayat We Alnas</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alhujja TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alhwanem Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aliman TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALIRAQI DRAMA PLUS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALISTIQAMA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Aljanub TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALKAHERA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkalema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALKANAL</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkarma Discipleship</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkarma ME 1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkarma New Generation</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlKarma Praise</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkass four HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkass one HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkass three HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alkass two HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alking Aflam</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alking Drama TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALKOFIYA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALLAHDAH TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almaaref TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almagd TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almahriah HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almajd General</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almamlaka TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almasirah HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almasirah Mubashar</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALMASIRAH TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almasrawya TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Almawlid Alnabawi TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALMAWQEF TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALMAYADEEN PLUS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALMERGAB TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALNAEEM TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alnajaf Alashraf tv</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlQanat9</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alrabaa SD Radio</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alrai TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALS3YDA MADEEH</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALSA3EED</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AlSaeedah</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALSahraa HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alsay3da</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALSHABAB</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alsouriya tv</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alsouriya TV-HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Altahoona</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALTAHRIR</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Altamselia</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Althanya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALWAQIE TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALWASI</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ALWESAM TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alyaum TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Alzrga</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AmharaSat TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Amman TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ANA DEJLAH</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Ana Sooria</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ANC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Anewz</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Angel TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Animal Planet HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AnwarTV2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Arirang HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq Discovery</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq Discovery HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq Discovery SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq Documentary</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq Documentary HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq Documentary SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq News Channel</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq News Channel HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asharq News Channel SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Asil TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>atv-ALADALAH</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>AVA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Awazna1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Awdeh</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Awdeh HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Ayozat TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Azhari</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Baghdad now</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Baghdad TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BAGHDAD TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Bahia TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Bahrain International HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Bahrain TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BANGAWAZ TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BATOOT KIDS TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Baynounah TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BBC Arabic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BBC News TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>beIN SPORTS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>beIN SPORTS NEWS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Beirut Aflam</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Beirut Alyoom</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Beirut Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Beirut Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Beit ElDrama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Beity TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BIN OTHAIMEEN</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Blippi and Friends</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Bloomberg Originals</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Bloomberg TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>BN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cairo Plus Alyoum</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cairo Plus Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cairo Plus Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Canal algerie HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cartoon Network</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cartoon Network HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CBC Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CBC HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CBC Sofra</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CGTN HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CGTN-Arabic HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CHADA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CHANNEL8</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Chebab TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cima</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CIRA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cleopatra TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CN ARABIA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CNBC ARABIYA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CNN</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Cookies Kids TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CSAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>CTV EGYPT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dabanga TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dahab drama tv</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DAHAB MOSALSALAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Daystar</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dijlah TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dijlah Zaman TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Diwan</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>dmc drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>dmc HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dolly Alyoom</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dolly cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dolly Classic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dolly Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dolly Mosalsalat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Drama Alyoom</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Drama Be Alaraby</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El3rosa Elyoum</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Drama Pro</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Drpal TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DUA CHANNEL</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dubai One HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DUBAI RACING 1 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DUBAI RACING 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DUBAI SPORTS 1 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DUBAI SPORTS 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Dubai TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>DW Arabia HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Echorouk News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Echorouk TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>EDUC 1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Egyptian TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>EI JUMHURIA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El barlamaniya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Bilad TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Hayat TV Algerie</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Heddaf TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Khoulasa Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Khoulasa Classic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>EL MAHROUSA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Omda Aflam</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Omda Al yom</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Omda Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Sharq TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>EL WAHA DRAMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El Watania TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El3rosa Aflam</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El3rosa Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El3rosa Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El3rosa Hekayat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>El3rosa Moslslat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Eldjazair N1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Elfadjer drama Dz</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Elkholasa mosalsalat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Elkhoulasa Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ELMEHWAR</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ELMEHWAR-HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ELMOLED</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Elzaeem Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Elzaeem Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Ennahar TV Algerie</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ERIPM</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Eriteria TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ETIHAD TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Extra Live SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Extra News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Extra News HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Faith TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Falastini.tv</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>falestinona TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Fox Be Elaraby TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Fox Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>FR HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>France 24</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>France 24 (in Arabic)</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>France 24 English</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Fujairah TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Gali Kurdistan HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>GB News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Global Biz TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>HADRAMAUT TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hadramout TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hala Arabia</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hala Baghdad TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hala Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hala mosr3a</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Halab today</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>HAQ TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hawa Baghdad</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hawa Baghdad Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hikayh TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>HodHod TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Hogan TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Home TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Huda TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Huna Aliraq</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>HYA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>I Film Arabic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>iKA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Imam Ali TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>IMAM HUSSEIN TV 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>INEWS TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>IRAQ 24</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraq Al Hadath HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraq Future</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraq now</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraqia Ent HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraqia Kurd</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraqia News HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraqia Sport HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraqia Syriac HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Iraqia Turkuman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Jordan Amen</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Jordan HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Jordan Sport HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>K24 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kaifa</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kanon TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Karameesh TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Karbala Documentary</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Karbala Documentary HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Karbala TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KARBALA TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kartoon channel</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kassala TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KBS WORLD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Khartoum-TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kirkuk TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Koogi</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORT1 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORT2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORTS 1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORTS 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORTS 3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORTS 3 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KSA SPORTS 4 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KTO</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KURDISTAN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>KURDMAX</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kuwait Sport Plus</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kuwait Sports</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kuwait TV 1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Kuwait TV 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Layali Zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Layaly El Madeh</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LBC SAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Learning passport SD1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Learning passport SD2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya al Ahrar HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Al Hedaya TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Al-Youm HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIBYA ALHADATH HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Alkarama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIBYA ALMASAR TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIBYA ALMOKHTAR</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Almustaqbal</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Alrasmia</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Alwataniya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya BN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIBYA HASAD TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIBYA IFTA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Radio Quran Karem</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIBYA SPORT 1 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya Sport 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Libya WTV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIFE SHOW ALYOUM</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIFE SHOW CINEMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIFE SHOW CLASSIC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIFE SHOW DRAMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LIFE SHOW TURKEY</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Light Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Logos TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Loveworld Arabic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>LTV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Lualua TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>M24 MAROC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Madah</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Madrastna 1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Madrastna 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Madrastna 3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Mahdi has appeared TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Majd Kids TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MAJESTIC AFLAM</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MAJESTIC CINEMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MAJESTIC CLASSIC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MAJESTIC DRAMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MAJESTIC MOSALSALAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MANU CHAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Marina TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MarjaeyatTV 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Maspero Zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Mazzika</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC 1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC 3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC 4</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC Action</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC Bollywood</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC IRAQ</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC IRAQ HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC MASR</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC Masr 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC MASR 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC MASR 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC MASR DRAMA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC Masr HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MBC MASR HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MDEEH</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Medi1 TV Arabic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Mekameleen TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Melody Aflam</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Melody Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Melody Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Melody Mosalsalat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Melody Zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Menhag Alnabowe</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MESat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Misk Syria</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Misr Al Zera3eya</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Misr ElBald</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Misr Quran Kareem</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Mix</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Mix Bel Araby</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Mix One</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Modern Mti</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Moga Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Moga Comedy</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Moga Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Moga Today</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MTA3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MUSAWA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>MUSAWA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Music India</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>N Africa</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>NABA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nawader TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>NHK World-Japan</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Comedy</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Culture</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Family</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Life</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile News HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile Sport</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nile TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nogoum FM TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>North Africa</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nour Koddass</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Noursat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Nu TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>OM-AlBaneen TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Oman TV Culture HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Oman TV General HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Oman TV General SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Oman TV Live HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Oman TV Sport HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON E</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON E HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON SPORT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON SPORT HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON SPORT MAX</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON SPORT MAX HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON SPORT PLUS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ON SPORT PLUS HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>One Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>One Movies</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ONE TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>OSN</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Oyoun AlWatan</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine EDU</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine Live</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine Live HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine News</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine News HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine Sport</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Palestine Today</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Panorama Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Panorama Drama 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Panorama Film</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Panorama Food</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Parole di Vita</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>PAYAM TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Press TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Prime TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>programme nationale HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Quran TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>RED SEA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Reef Alyemen</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>River Nile TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Riyad Al Salihin</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Ronahi TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Cinema EGY</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Cinema EGY HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Cinema KSA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Classic</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Clip</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Khalijia</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Rotana Music</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ROYA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>RT ARABIC HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>RT ARABIC SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>RT English</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>RUDAW</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>RUDAW TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SABA HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sada El Balad</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sada El Balad 2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sada ElBalad 3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sahar Kurdi</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SALAM</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SALVATION TV MENA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAMA DUBAI HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Samira TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Saout alaqila</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAT-7 ARABIC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAT-7 KIDS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAT.TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sat.tv demo loop</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Saudi CH For Quran</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAUDI CH For Quran HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Saudi CH For Sunnah</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAUDI CH For Sunnah HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Saudi TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SAUDI TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Saudia Alaan TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Saudia Alaan TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SBC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SBC HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SBN Global</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Segenet TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHABABIK CINEMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHABABIK DRAMA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHABABIK HEKAYAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHABABIK MOSLSLAT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHAM TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Shamalia TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Shams TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sharjah HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sharjah Quran TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sharjah SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sharjah Sport 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sharjah Sport HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sharqiya from Kalba HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHASHAT AL-IRAQ TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sheba</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHEHAB TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SHOW TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sky News Arabia</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sky News Arabia HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SMTV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SOUT MASER</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SPACETOON ARABIC</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SPORT PLUS HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sports First</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Strongman Champions League</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SUBORO TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sudan TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SUHAIL TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sukariya cinema</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sukariya drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sukariya hekayat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Sukariya zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Syria 2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Syria News HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Syria News SD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Syria TV 01</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>SYRIA TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TAHA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TANASUH EDUCATION TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TANASUH TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Taqwa Rawhaniat</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TAYBA TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TCHAD TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TCTT</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TCTT.</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TEBA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Tele Lumiere</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TeN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>The Grace TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Thikrayat HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Thikrayatt</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>thmanyah.1</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>thmanyah.2</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>thmanyah.3</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Time Zaman TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Top Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TOP Zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Toyor Aljanah</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TRT Arabi</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TRT Arabi HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TRT KURDI</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TRT WORLD HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Truth TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Tunisia Nat1 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Tunisia Nat2 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TURKMENELI HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TV 4</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TV 5</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TV5</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TV6 HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TV7 ELMAARIFA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>TV8 EDHAKIRA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>UTV Iraq</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>UTV Iraq HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Voice of Palestine HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>WAAR HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Wanas TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Wanasat Baby</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>WATAN TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Wedo TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>West Elbalad Drama</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>West Elbalad Zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Wild TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>World Fashion Channel</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>World Fishing Network</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>YALLA MOSR3A TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>YAMAN KIDS</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>YAS Sports HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Yemen</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Yemen Documentary</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Yemen Education</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>YEMEN SHABAB</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>YEMEN SHABAB HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Yemen Today</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Yemen Today TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Yemen TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ZAD TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Zagros 24</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ZAGROS TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Zahra TV</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Zamalek Sports</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Zaman</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ZAROK TV HD</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ZAYTOONA</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>Zee Aflam</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ZEE ALWAN Egypt</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+  <e2service>
+    <e2servicename>ZEE ALWAN.</e2servicename>
+    <e2servicereference>1:0:1:0:0:0:0:0:0:0:</e2servicereference>
+  </e2service>
+</e2servicelist>

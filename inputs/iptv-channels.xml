@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channels>
+  <channel site="rotana.net" site_id="439" lang="ar" xmltv_id="RotanaCinemaEgypt.eg@SD">روتانا سينما مصر</channel>
+  <channel site="rotana.net" site_id="431" lang="ar" xmltv_id="RotanaCinemaKSA.sa@SD">روتانا سينما السعودية</channel>
+  <channel site="rotana.net" site_id="438" lang="ar" xmltv_id="RotanaClassic.sa@SD">روتانا كلاسيك</channel>
+  <channel site="rotana.net" site_id="437" lang="ar" xmltv_id="RotanaComedy.sa@SD">روتانا كوميدي</channel>
+  <channel site="rotana.net" site_id="436" lang="ar" xmltv_id="RotanaDrama.sa@SD">روتانا دراما</channel>
+  <channel site="rotana.net" site_id="435" lang="ar" xmltv_id="RotanaKhalijia.sa@SD">روتانا خليجية</channel>
+  <channel site="osn.com" site_id="206" lang="ar" xmltv_id="">Blippi and Friends</channel>
+  <channel site="osn.com" site_id="4507" lang="ar" xmltv_id="CartoonNetworkMENA.uk@SD">Cartoon Network HD</channel>
+  <channel site="osn.com" site_id="4504" lang="ar" xmltv_id="CNNInternational.us@MENA">CNN HD</channel>
+  <channel site="tvpassport.com" site_id="abu-dhabi-tv/4003" lang="en" xmltv_id="">Abu Dhabi TV</channel>
+  <channel site="tvpassport.com" site_id="al-arabiya/13669" lang="en" xmltv_id="">Al Arabiya</channel>
+  <channel site="tvpassport.com" site_id="al-jazeera-english/7810" lang="en" xmltv_id="">Al Jazeera English</channel>
+  <channel site="tvpassport.com" site_id="al-nahar-drama/31967" lang="en" xmltv_id="">Al Nahar Drama</channel>
+  <channel site="tvpassport.com" site_id="cgtn-arabic/36354" lang="en" xmltv_id="">CGTN Arabic</channel>
+  <channel site="tvpassport.com" site_id="kbs-world/5276" lang="en" xmltv_id="">KBS World</channel>
+  <channel site="tvpassport.com" site_id="melody-drama/10465" lang="en" xmltv_id="">Melody Drama</channel>
+  <channel site="tvpassport.com" site_id="sky-news-arabia/31983" lang="en" xmltv_id="">Sky News Arabia</channel>
+  <channel site="tvpassport.com" site_id="france-24-english/14114" lang="en" xmltv_id="France24.fr@English">France 24 English</channel>
+  <channel site="tvpassport.com" site_id="2m-maroc/13668" lang="en" xmltv_id="">2M Maroc</channel>
+</channels>
