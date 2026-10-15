@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-15T16:59:40.497652+00:00",
+  "generated_utc": "2026-10-15T21:22:32.447095+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
   "channels_with_real_programmes": 48,
-  "programmes": 3385,
+  "programmes": 3224,
   "programmes_by_source": {
-    "Arabic elCinema": 1278,
-    "IPTV EPG Egypt": 505,
-    "nilesat-grab.xml": 1602
+    "Arabic elCinema": 1304,
+    "IPTV EPG Egypt": 470,
+    "nilesat-grab.xml": 1450
   },
   "feed_errors": {},
   "uncovered_names": [
