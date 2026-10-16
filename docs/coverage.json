@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-16T04:30:33.544085+00:00",
+  "generated_utc": "2026-10-16T11:21:47.113692+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
-  "channels_with_real_programmes": 48,
-  "programmes": 3437,
+  "channels_with_real_programmes": 46,
+  "programmes": 3772,
   "programmes_by_source": {
-    "Arabic elCinema": 1218,
-    "IPTV EPG Egypt": 414,
-    "nilesat-grab.xml": 1805
+    "Arabic elCinema": 1230,
+    "IPTV EPG Egypt": 886,
+    "nilesat-grab.xml": 1656
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -489,6 +489,7 @@
     "Misr Al Zera3eya",
     "Misr ElBald",
     "Misr Quran Kareem",
+    "Mix",
     "Modern Mti",
     "Moga Cinema",
     "Moga Comedy",
@@ -528,6 +529,7 @@
     "Oman TV General SD",
     "Oman TV Live HD",
     "Oman TV Sport HD",
+    "One Movies",
     "Oyoun AlWatan",
     "PAYAM TV HD",
     "Palestine",
