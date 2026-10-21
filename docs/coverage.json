@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-21T17:10:33.996449+00:00",
+  "generated_utc": "2026-10-21T21:41:57.384042+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
-  "channels_with_real_programmes": 47,
-  "programmes": 3383,
+  "channels_with_real_programmes": 45,
+  "programmes": 3204,
   "programmes_by_source": {
-    "Arabic elCinema": 1132,
-    "IPTV EPG Egypt": 636,
-    "nilesat-grab.xml": 1615
+    "Arabic elCinema": 1036,
+    "IPTV EPG Egypt": 648,
+    "nilesat-grab.xml": 1520
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -587,6 +587,7 @@
     "SUBORO TV",
     "SUHAIL TV",
     "SYRIA TV HD",
+    "Sada El Balad",
     "Sada ElBalad 3",
     "Sahar Kurdi",
     "Samira TV",
@@ -639,6 +640,7 @@
     "TV7 ELMAARIFA",
     "TV8 EDHAKIRA",
     "Taqwa Rawhaniat",
+    "TeN TV",
     "Tele Lumiere",
     "The Grace TV",
     "Thikrayat HD",
