@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-21T11:47:06.109687+00:00",
+  "generated_utc": "2026-10-21T17:10:33.996449+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
-  "channels_with_real_programmes": 46,
-  "programmes": 3555,
+  "channels_with_real_programmes": 47,
+  "programmes": 3383,
   "programmes_by_source": {
-    "Arabic elCinema": 1109,
-    "IPTV EPG Egypt": 677,
-    "nilesat-grab.xml": 1769
+    "Arabic elCinema": 1132,
+    "IPTV EPG Egypt": 636,
+    "nilesat-grab.xml": 1615
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -489,7 +489,6 @@
     "Misr Al Zera3eya",
     "Misr ElBald",
     "Misr Quran Kareem",
-    "Mix",
     "Modern Mti",
     "Moga Cinema",
     "Moga Comedy",
