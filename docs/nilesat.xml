@@ -144,43 +144,6 @@
   <channel id="nilesat.zeealwan">
     <display-name>ZEE ALWAN.</display-name>
   </channel>
-  <programme channel="nilesat.2mmaroc" start="20261022170000 +0000" stop="20261022171000 +0000">
-    <title>Quotidienne Akhir Tamane</title>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022171000 +0000" stop="20261022180000 +0000">
-    <title>Hkayti</title>
-    <desc>Serena lives in a family suffering from poverty and destitution; she learns to dance in her childhood at the hands of the dancer Lulwa.</desc>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022180000 +0000" stop="20261022182500 +0000">
-    <title>Info soir</title>
-    <desc>Informations du soir.</desc>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022182500 +0000" stop="20261022183000 +0000">
-    <title>Que du sport</title>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022183000 +0000" stop="20261022183500 +0000">
-    <title>Bulletin météo</title>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022183500 +0000" stop="20261022184500 +0000">
-    <title>Eco News</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022184500 +0000" stop="20261022191500 +0000">
-    <title>Al massaiya</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022191500 +0000" stop="20261022192500 +0000">
-    <title>Eco News</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022192500 +0000" stop="20261022202000 +0000">
-    <title>Al Moukhtafi</title>
-    <desc>After her husband Mehdi vanishes, Zineb's perfect life falls apart. With her three best friends, she searches for the truth behind his mysterious disappearance.</desc>
-  </programme>
-  <programme channel="nilesat.2mmaroc" start="20261022202000 +0000" stop="20261022212000 +0000">
-    <title>Moukhtafoune</title>
-    <desc>Testimonies from those searching for missing persons create reunions.</desc>
-  </programme>
   <programme channel="nilesat.2mmaroc" start="20261022212000 +0000" stop="20261022221000 +0000">
     <title>3Ailti</title>
   </programme>
@@ -486,26 +449,6 @@
     <title>Akhir Tamane</title>
     <desc>Offering a unique auction experience; experts appraise your personal items, from jewelry to antique furniture, determining their fair market value; connect sellers with potential buyers, facilitating successful transactions.</desc>
   </programme>
-  <programme channel="nilesat.abudhabitv" start="20261022170000 +0000" stop="20261022173000 +0000">
-    <title>Buyoutna</title>
-    <desc>The host invites various experts and guests to discuss topics related to filial piety and one's relationship with the parents and how they should be honoured and respected.</desc>
-  </programme>
-  <programme channel="nilesat.abudhabitv" start="20261022173000 +0000" stop="20261022183000 +0000">
-    <title>Taht Al Ard, Mawsem Haar</title>
-    <desc>Within the framework of suspense and excitement, a series of events takes place within the Al-Safi family of Damascus, who rules the tobacco trade.</desc>
-  </programme>
-  <programme channel="nilesat.abudhabitv" start="20261022183000 +0000" stop="20261022190000 +0000">
-    <title>Al Satr Al Akheer</title>
-    <desc>The host invites experts to discuss a variety of current social and political issues and matters that often stirs controversy and arise debates.</desc>
-  </programme>
-  <programme channel="nilesat.abudhabitv" start="20261022190000 +0000" stop="20261022200000 +0000">
-    <title>North Star</title>
-    <desc>Forced to return to his hometown with his daughters, Kuzey becomes neighbours with Yildiz, the woman he abandoned years ago, who is now determined to drive them away.</desc>
-  </programme>
-  <programme channel="nilesat.abudhabitv" start="20261022200000 +0000" stop="20261022210000 +0000">
-    <title>Day Break</title>
-    <desc>The murderer of Alberto Garza is finally revealed.</desc>
-  </programme>
   <programme channel="nilesat.abudhabitv" start="20261022210000 +0000" stop="20261022220000 +0000">
     <title>Masa Abu Dhabi</title>
     <desc>A comprehensive compilation of latest events and happenings from around the UAE, along with various topics and interesting stories.</desc>
@@ -785,28 +728,6 @@
   <programme channel="nilesat.abudhabitv" start="20261025093000 +0000" stop="20261025100000 +0000">
     <title>Zahra Cast</title>
     <desc>The host invites experts and inspiring guests to talk about social issues and shed light on meaningful experiences and challenges.</desc>
-  </programme>
-  <programme channel="nilesat.alarabiya" start="20261022170000 +0000" stop="20261022180000 +0000">
-    <title>Hour Of Discussion</title>
-    <desc>Special report.</desc>
-  </programme>
-  <programme channel="nilesat.alarabiya" start="20261022180000 +0000" stop="20261022190000 +0000">
-    <title>Al Arabiya News</title>
-    <desc>Featuring top stories, breaking news and current affairs in the Arab region and around the world.</desc>
-  </programme>
-  <programme channel="nilesat.alarabiya" start="20261022190000 +0000" stop="20261022195400 +0000">
-    <title>Al Arabiya News</title>
-    <desc>Featuring top stories, breaking news and current affairs in the Arab region and around the world.</desc>
-  </programme>
-  <programme channel="nilesat.alarabiya" start="20261022195400 +0000" stop="20261022200000 +0000">
-    <title>Kol Youm Ketab</title>
-  </programme>
-  <programme channel="nilesat.alarabiya" start="20261022200000 +0000" stop="20261022205500 +0000">
-    <title>Outside The Box</title>
-    <desc>Special report.</desc>
-  </programme>
-  <programme channel="nilesat.alarabiya" start="20261022205500 +0000" stop="20261022210000 +0000">
-    <title>Kol Youm Ketab</title>
   </programme>
   <programme channel="nilesat.alarabiya" start="20261022210000 +0000" stop="20261022220000 +0000">
     <title>Fil Marma</title>
@@ -1135,30 +1056,6 @@
     <title>Business</title>
     <desc>An insight into the changes and happenings in the business and economic sectors of the Arab world.</desc>
   </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261022170000 +0000" stop="20261022173000 +0000">
-    <title>News</title>
-    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261022173000 +0000" stop="20261022180000 +0000">
-    <title>Inside Story</title>
-    <desc>Going beyond the headlines and to the heart of the news of the day.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261022180000 +0000" stop="20261022190000 +0000">
-    <title>Newshour</title>
-    <desc>World news linking Al Jazeera's international news centers.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261022190000 +0000" stop="20261022193000 +0000">
-    <title>Newshour</title>
-    <desc>World news linking Al Jazeera's international news centers.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261022193000 +0000" stop="20261022200000 +0000">
-    <title>Talk to Al Jazeera</title>
-    <desc>A series of conversations with some of the world's leading personalities providing different perspectives and insights.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261022200000 +0000" stop="20261022210000 +0000">
-    <title>Head to Head</title>
-    <desc>Mehdi engages in a discussion about the big issues in current time, such as faith, democracy and freedom of speech.</desc>
-  </programme>
   <programme channel="nilesat.aljazeeraenglish" start="20261022210000 +0000" stop="20261022220000 +0000">
     <title>Newshour</title>
     <desc>World news linking Al Jazeera's international news centers.</desc>
@@ -1274,13 +1171,9 @@
     <title>Newshour</title>
     <desc>World news linking Al Jazeera's international news centers.</desc>
   </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261023160000 +0000" stop="20261023163000 +0000">
+  <programme channel="nilesat.aljazeeraenglish" start="20261023160000 +0000" stop="20261023170000 +0000">
     <title>Newshour</title>
     <desc>World news linking Al Jazeera's international news centers.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261023163000 +0000" stop="20261023170000 +0000">
-    <title>Business of War</title>
-    <desc>Hind Hassan investigates how weapons from the global arms trade are being used by militarized police forces.</desc>
   </programme>
   <programme channel="nilesat.aljazeeraenglish" start="20261023170000 +0000" stop="20261023173000 +0000">
     <title>News</title>
@@ -1294,13 +1187,9 @@
     <title>Newshour</title>
     <desc>World news linking Al Jazeera's international news centers.</desc>
   </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261023190000 +0000" stop="20261023193000 +0000">
+  <programme channel="nilesat.aljazeeraenglish" start="20261023190000 +0000" stop="20261023200000 +0000">
     <title>Newshour</title>
     <desc>World news linking Al Jazeera's international news centers.</desc>
-  </programme>
-  <programme channel="nilesat.aljazeeraenglish" start="20261023193000 +0000" stop="20261023200000 +0000">
-    <title>Counting the Cost</title>
-    <desc>Providing the background to the economics stories that shape our world.</desc>
   </programme>
   <programme channel="nilesat.aljazeeraenglish" start="20261023200000 +0000" stop="20261023210000 +0000">
     <title>Al Jazeera Investigates</title>
@@ -1725,17 +1614,6 @@
     <title>Cry All You Want</title>
     <desc>After twists and turns, Xiaoshuang took over her sister-in-law's restaurant and with the aid of Feng, she is seeing hope in life again.</desc>
   </programme>
-  <programme channel="nilesat.aloula" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>السقوط في بئر سبع</title>
-    <desc>يدور المسلسل حول قصة حقيقية من ملفات المخابرات المصرية، حول  تجنيد مصري وزوجته للتجسس لصالح إسرائيل، القصة نقلًا عن رواية (إبراهيم وانشراح) للكاتب الصحفي عبدالرحمن فهمي.</desc>
-  </programme>
-  <programme channel="nilesat.aloula" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>التاسعة</title>
-    <desc>برنامج توك شو على القناة اﻷولى المصرية، يهتم باستعراض أهم  الأخبار والأحداث المحلية والعالمية، بالإضافة لاستضافة النجوم في مجال الفن والرياضة والحديث معهم.</desc>
-  </programme>
-  <programme channel="nilesat.aloula" start="20261022230000 +0400" stop="20261023010000 +0400">
-    <title>برنامج من ماسبيرو</title>
-  </programme>
   <programme channel="nilesat.aloula" start="20261023010000 +0400" stop="20261023030000 +0400">
     <title>برنامج رقم 10</title>
   </programme>
@@ -1876,19 +1754,19 @@
   <programme channel="nilesat.aloula" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>برنامج رقم 10</title>
   </programme>
-  <programme channel="nilesat.alsaeedah" start="20261022210000 +0400" stop="20261022213000 +0400">
-    <title>برنامج ملفات مفتوحة</title>
-  </programme>
-  <programme channel="nilesat.alsaeedah" start="20261022213000 +0400" stop="20261022220000 +0400">
-    <title>برنامج صحتك بين يديك</title>
-  </programme>
-  <programme channel="nilesat.alsaeedah" start="20261022220000 +0400" stop="20261022230000 +0400">
+  <programme channel="nilesat.aloula" start="20261025020000 +0400" stop="20261025030000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsaeedah" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>برنامج ذاكرة الفن</title>
+  <programme channel="nilesat.aloula" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsaeedah" start="20261023000000 +0400" stop="20261023010000 +0400">
+  <programme channel="nilesat.aloula" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.aloula" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.aloula" start="20261025060000 +0400" stop="20261025070000 +0400">
     <title>برنامج</title>
   </programme>
   <programme channel="nilesat.alsaeedah" start="20261023010000 +0400" stop="20261023020000 +0400">
@@ -2058,19 +1936,22 @@
   <programme channel="nilesat.alsaeedah" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsharqiya" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>برنامج وبالوالدين احسانا</title>
+  <programme channel="nilesat.alsaeedah" start="20261025020000 +0400" stop="20261025033000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsharqiya" start="20261022220000 +0400" stop="20261022223000 +0400">
-    <title>برنامج تعال اسمعك</title>
+  <programme channel="nilesat.alsaeedah" start="20261025033000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsharqiya" start="20261022223000 +0400" stop="20261022230000 +0400">
-    <title>برنامج مراجيح</title>
+  <programme channel="nilesat.alsaeedah" start="20261025040000 +0400" stop="20261025043000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsharqiya" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>نشرة الاخبار</title>
+  <programme channel="nilesat.alsaeedah" start="20261025043000 +0400" stop="20261025050000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsharqiya" start="20261023000000 +0400" stop="20261023010000 +0400">
+  <programme channel="nilesat.alsaeedah" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.alsaeedah" start="20261025060000 +0400" stop="20261025070000 +0400">
     <title>برنامج</title>
   </programme>
   <programme channel="nilesat.alsharqiya" start="20261023010000 +0400" stop="20261023020000 +0400">
@@ -2228,14 +2109,25 @@
     <title>صباح الشرقية</title>
     <desc>برنامج (صباح الشرقية) يناقش العديد من المعلومات الاجتماعية  والصحية والأسرية، ويستضيف نجوم الفن، كما يقدم العديد من الفقرات المتنوعة التي تغطي مواضيع شتى.</desc>
   </programme>
-  <programme channel="nilesat.alsumaria" start="20261022204500 +0400" stop="20261022213000 +0400">
-    <title>نشرة اخبار السومرية</title>
+  <programme channel="nilesat.alsharqiya" start="20261025020000 +0400" stop="20261025023000 +0400">
+    <title>كمامات وطن</title>
+    <desc>دراما اجتماعية تناقش في كل حلقة قضية ومشكلة من مشكلات  المجتمع منها طبيب ينصح الناس من خطورة وباء الكورونا ومنها متظاهر يساعد الشباب.</desc>
   </programme>
-  <programme channel="nilesat.alsumaria" start="20261022213000 +0400" stop="20261022223000 +0400">
-    <title>برنامج celebirty</title>
+  <programme channel="nilesat.alsharqiya" start="20261025023000 +0400" stop="20261025030000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.alsumaria" start="20261022223000 +0400" stop="20261023003000 +0400">
-    <title>برنامج علنا</title>
+  <programme channel="nilesat.alsharqiya" start="20261025030000 +0400" stop="20261025043000 +0400">
+    <title>برنامج وبالوالدين احسانا</title>
+  </programme>
+  <programme channel="nilesat.alsharqiya" start="20261025043000 +0400" stop="20261025050000 +0400">
+    <title>الكندوش</title>
+    <desc>تجري الأحداث في إطار درامي اجتماعي، حول أحد الرجال الأثرياء  الذي يُدعى عزمي بيك، والذي تنقلب حياته رأسا على عقب عندما يُعجب بأرملة تسكن بجواره، بالرغم من زواجه من أم أولاده، والصراع بين الخير والشر.</desc>
+  </programme>
+  <programme channel="nilesat.alsharqiya" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.alsharqiya" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج</title>
   </programme>
   <programme channel="nilesat.alsumaria" start="20261023003000 +0400" stop="20261023030000 +0400">
     <title>برنامج live talk</title>
@@ -2395,21 +2287,17 @@
   <programme channel="nilesat.alsumaria" start="20261025003000 +0400" stop="20261025013000 +0400">
     <title>برنامج صمون و زعتر</title>
   </programme>
-  <programme channel="nilesat.althania" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>Baba</title>
-    <desc>في إطار درامي، تدور الأحداث حول علاقة إنسانية بين عائلة  بسيطة من أب وأبنائه يعيشون في الأناضول، وعندما يتعرض أقرباؤهم لحادث مأساوي وتتحطم بهم الطائرة، ترث العائلة البسيطة الأموال والبيت.</desc>
+  <programme channel="nilesat.alsumaria" start="20261025013000 +0400" stop="20261025030000 +0400">
+    <title>برنامج مايك السومرية</title>
   </programme>
-  <programme channel="nilesat.althania" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>مشاعر</title>
-    <desc>في إطار درامي رومانسي، تدور أحداث المسلسل في حلقات منفصلة  تحوي قصصا مختلفة عن علاقات حب تحاول كسر الحواجز التي تمنعها من الاستمرار.</desc>
+  <programme channel="nilesat.alsumaria" start="20261025030000 +0400" stop="20261025050000 +0400">
+    <title>برنامج رحال</title>
   </programme>
-  <programme channel="nilesat.althania" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>ما اختلفنا ج2</title>
-    <desc>في الموسم الثاني، يواصل المسلسل تقديم العديد من القضايا  الاجتماعية والإنسانية من زوايا مختلفة ومن خلال حلقات منفصلة في إطار كوميدي ساخر.</desc>
+  <programme channel="nilesat.alsumaria" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج dayana &amp; city</title>
   </programme>
-  <programme channel="nilesat.althania" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>طريق</title>
-    <desc>تدور أحداث المسلسل حول علاقة عشق بين حبيبين ينتميان إلى  طبقتين مختلفتين فكريًا واجتماعيًا، لكن رغم هذا تتحول علاقة العشق والحب إلى زواج، فهل الاختلافات التي توجد بينهما ستؤثر على زواجهما.</desc>
+  <programme channel="nilesat.alsumaria" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج رحال</title>
   </programme>
   <programme channel="nilesat.althania" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>ربيع قرطبة</title>
@@ -2586,89 +2474,25 @@
     <title>ربيع قرطبة</title>
     <desc>يتناول العمل فترة من أزهى عصور الأندلس وهي عصر كل من عبد  الرحمن الثالث (الناصر) وولده الحكم المستنصر، ويركز المسلسل على قصة (محمد بن أبي عامر) القادم من الجزيرة الخضراء طالبًا العلم في مدينة قرطبة وتحوله من تاجر وأجير إلى حاكم الأندلس.</desc>
   </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022170000 +0000" stop="20261022171000 +0000">
-    <title>ريغولار شو: لوست تيبس</title>
-    <desc>يجب إتمام مهمة سرية قبل تنظيف غرفة المعيشة.</desc>
+  <programme channel="nilesat.althania" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>أشواك ناعمة</title>
+    <desc>يدور المسلسل حول عائلة تتكون من خمسة أشخاص، تعمل الأم كمرشدة  تربوية ونفسية مما يساعدها على حل جزء كبير من المشاكل التي تعاني منها الطالبات. كما يحكي قصة انسانة عاقر توفي زوجها منذ سنتين لتكتشف أنه كان متزوج من أخرى ولديه بنت عمرها سبعة عشر عامًا وبعد شعور مرير تقرر الانتقام من ثمرة خيانة زوجها.</desc>
   </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022171000 +0000" stop="20261022172500 +0000">
-    <title>ريغولار شوو: ذا لوست تايبس</title>
-    <desc>يعمل موردخاي وريجبي ويعيشان في حديقة. تتحول وظائفهما الرتيبة دائمًا إلى فوضى سريالية، مما يثير استياء رئيسهما وزملائهما في العمل.</desc>
+  <programme channel="nilesat.althania" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>عطر الشام ج4</title>
+    <desc>تنتقل أحداث الجزء الرابع من المسلسل من مرحلة الصراع مع  الاحتلال الفرنسي، إلى مرحلة القضايا الاجتماعية واليومية في حياة الدمشقيين في حقبة الثلاثينات، شاهدا على مشاكل البيت الدمشقي في تلك الفترة وصراع المرأة مع زوجها في مطالبتها بحقوقها.</desc>
   </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022172500 +0000" stop="20261022173500 +0000">
-    <title>ريغيولر شو</title>
-    <desc>يحتاج الرجال إلى الحصول على كاميرا فيديو للحديقة في أسفل حفرة الاصطدام.</desc>
+  <programme channel="nilesat.althania" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>Baba</title>
+    <desc>في إطار درامي، تدور الأحداث حول علاقة إنسانية بين عائلة  بسيطة من أب وأبنائه يعيشون في الأناضول، وعندما يتعرض أقرباؤهم لحادث مأساوي وتتحطم بهم الطائرة، ترث العائلة البسيطة الأموال والبيت.</desc>
   </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022173500 +0000" stop="20261022174500 +0000">
-    <title>ريغيولر شو</title>
-    <desc>يتعين على موردخاي وريجبي مساعدة بينسون في استبدال الغيتار الكهربائي الذي يحمل توقيع نجم روك، وإلا سيتم طرد بينسون.</desc>
+  <programme channel="nilesat.althania" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>مشاعر</title>
+    <desc>في إطار درامي رومانسي، تدور أحداث المسلسل في حلقات منفصلة  تحوي قصصا مختلفة عن علاقات حب تحاول كسر الحواجز التي تمنعها من الاستمرار.</desc>
   </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022174500 +0000" stop="20261022175500 +0000">
-    <title>تين تايتنز، غو!</title>
-    <desc>بعد التعرف على ثغرات حبكة الفيلم، يستمتع ذا تايتنز ببعض المرح ولكن ينتهي بهم الأمر بإلقاء عالمهم في حالة من الفوضى.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022175500 +0000" stop="20261022180500 +0000">
-    <title>تين تايتنز، غو!</title>
-    <desc>يشعر روبن بالقلق من أنه مميز فقط بسبب حزام المرافق الخاص به، فيتبرع به إلى متجر التوفير.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022180500 +0000" stop="20261022181500 +0000">
-    <title>تين تايتنز، غو!</title>
-    <desc>في محاولة لإدانة منزل دوم باترول، يصبح ذا براين مفتشًا للمنزل.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022181500 +0000" stop="20261022182500 +0000">
-    <title>تين تايتنز، غو!</title>
-    <desc>بعد أن وصلتإيلاست غيرل إلى أقصى حدودها، قام ذا شيف ببناء روبوت بديل.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022182500 +0000" stop="20261022184000 +0000">
-    <title>ذا وندرڤولي ويرد ورلد أوف غومبال</title>
-    <desc>ريتشارد يعيد تتبع أحداث يومه لإنقاذ عشاء العائلة.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022184000 +0000" stop="20261022185000 +0000">
-    <title>ذا وندرڤولي ويرد ورلد أوف غومبال</title>
-    <desc>يجب على عائلة واترسون إيصال أنيس إلى دايزيلاند قبل أن يغلق المنتزه نهائياً</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022185000 +0000" stop="20261022190000 +0000">
-    <title>ذا أميزينج وورلد أوف جامبول - عالم غامبول المُدهش</title>
-    <desc>غامبول يائس للعثور على آلان</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022190000 +0000" stop="20261022191500 +0000">
-    <title>ذا أميزينج وورلد أوف جامبول - عالم غامبول المُدهش</title>
-    <desc>يحاول غامبول وداروين رفع معنويات السيد سمول</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022191500 +0000" stop="20261022192500 +0000">
-    <title>أدفينشر تايم: سايد كويستس</title>
-    <desc>يقوم فين وجايك برعاية أمير الغوبلين لصالح ملك الجليد!</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022192500 +0000" stop="20261022193500 +0000">
-    <title>أدفينشر تايم: سايد كويستس</title>
-    <desc>يدخل فين مسابقة الرماية بالقوس والنشاب ليُثبت رجولته!</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022193500 +0000" stop="20261022195000 +0000">
-    <title>وقت المغامرة</title>
-    <desc>يجد فين وجيك نفسيهما متورطين في لغز جريمة سريعة.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022195000 +0000" stop="20261022200000 +0000">
-    <title>وقت المغامرة</title>
-    <desc>من أجل علاج ألم المعدة لدى العملاق، يجب على فين وجايك أن يوقفا حفلة تحدث داخل بطنه.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022200000 +0000" stop="20261022202500 +0000">
-    <title>توتالي سبايز!</title>
-    <desc>أصبحت اللعبة الرقمية الأكثر شهرة في سنغافورة واقعية للغاية. حيث قام شرير إلكتروني جديد بإطلاق مخلوقات زاحفة عملاقة من اللعبة، مما جعل الجواسيس يغرقون في الوحل الإلكتروني. هل سيتمكن الجواسيس من النجاة في الوقت المناسب لحضور دعوة غليتيرستار الغامضة؟</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022202500 +0000" stop="20261022204500 +0000">
-    <title>توتالي سبايز!</title>
-    <desc>عندما يهاجم محمصة الخبز ماندي، يجب على الجواسيس معرفة سبب جنون الأجهزة الرقمية. ولكن عندما تتحول تقنيات وووب ضدهم، يكتشف الجواسيس بمساعدة توبي أن الرجوع إلى الأسلوب "الكلاسيكي" هو الحل الأمثل لإسقاط الشرير.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022204500 +0000" stop="20261022205500 +0000">
-    <title>ذا وندرڤولي ويرد ورلد أوف غومبال</title>
-    <desc>بعد تذوق المعكرونة بالجبنة المزدوجة مع الكمأة من إعداد ماسامي خلال الغداء، يقرر غامبول فعل أي شيء للحصول على وجبة كاملة من هذا الطبق اللذيذ</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022205500 +0000" stop="20261022212000 +0000">
-    <title>ذا وندرڤولي ويرد ورلد أوف غومبال</title>
-    <desc>في خضم موجة حر شديدة، يطلب ريتشارد من غامبول وداروين وأنايس مساعدته في مهمته للقفز في المسبح الجديد الذي ركبه عائلة روبنسون.</desc>
-  </programme>
-  <programme channel="nilesat.cartoonnetwork" start="20261022212000 +0000" stop="20261022213000 +0000">
-    <title>ذا واندرفولي ويرد وورلد أوف غومبال</title>
-    <desc>يتعهد غامبول بارتداء صدفة والمشاركة في تقاليد فيتزجيرالد الغريبة، من أجل مساعدة بيني على تجاوز حفل عيد ميلاد عائلي متوتر بسهولة.</desc>
+  <programme channel="nilesat.althania" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>مشاعر</title>
+    <desc>في إطار درامي رومانسي، تدور أحداث المسلسل في حلقات منفصلة  تحوي قصصا مختلفة عن علاقات حب تحاول كسر الحواجز التي تمنعها من الاستمرار.</desc>
   </programme>
   <programme channel="nilesat.cartoonnetwork" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title>ذا أميزينج وورلد أوف جامبول - عالم غامبول المُدهش</title>
@@ -3778,38 +3602,6 @@
     <title>أدفانتشر تايم</title>
     <desc>حان وقت المغامرة! هيا اصطحبوا أصدقاءكم، سنذهب إلى بلاد بعيدة جدًا. مع جيك الكلب وفين الإنسان، لن تنتهي المتعة أبدًا.</desc>
   </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022170000 +0000" stop="20261022173000 +0000">
-    <title>CGTN a News</title>
-    <desc>Reporting breaking news, important information and Chinese government’s standpoint and views on crucial international issues, CGTN A News is also focusing on friendly exchanges and cooperation.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022173000 +0000" stop="20261022180000 +0000">
-    <title>Chinese Arts</title>
-    <desc>Carefully selected music, dance, songs and historic cultural stories.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022180000 +0000" stop="20261022183000 +0000">
-    <title>China Tour</title>
-    <desc>China's amazing landscapes unfold as the country's rich historic and cultural backgrounds are explored.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022183000 +0000" stop="20261022190000 +0000">
-    <title>Documentary</title>
-    <desc>A program shows records of historic events, discoveries of great importance, and documentaries of Chinese real life.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022190000 +0000" stop="20261022193000 +0000">
-    <title>CGTN a News</title>
-    <desc>Reporting breaking news, important information and Chinese government’s standpoint and views on crucial international issues, CGTN A News is also focusing on friendly exchanges and cooperation.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022193000 +0000" stop="20261022200000 +0000">
-    <title>China Middle East</title>
-    <desc>News, interviews, featuring China and Arab's politics, culture trade and concerns.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022200000 +0000" stop="20261022203000 +0000">
-    <title>CGTN a News</title>
-    <desc>Reporting breaking news, important information and Chinese government’s standpoint and views on crucial international issues, CGTN A News is also focusing on friendly exchanges and cooperation.</desc>
-  </programme>
-  <programme channel="nilesat.cgtnarabic" start="20261022203000 +0000" stop="20261022211500 +0000">
-    <title>TV Plays</title>
-    <desc>Chinese dramas selected for Arabian audiences, such as Kung-Fu, comedy and soap.</desc>
-  </programme>
   <programme channel="nilesat.cgtnarabic" start="20261022211500 +0000" stop="20261022220000 +0000">
     <title>TV Plays</title>
     <desc>Chinese dramas selected for Arabian audiences, such as Kung-Fu, comedy and soap.</desc>
@@ -4246,14 +4038,6 @@
     <title>Animation Park</title>
     <desc>CGTN-A’s new and fantastic 25-min animation program suitable for kids who have grown up in Arabian cultural backgrounds.</desc>
   </programme>
-  <programme channel="nilesat.cima" start="20261022210000 +0400" stop="20261022230000 +0400">
-    <title>شلة المحتالين</title>
-    <desc>الأرناؤوطي وبسيوني نصابات، يقعان في حب النصابتين سعاد ونوال،  ويتفق الطرفان على الزواج، ويقرران عمل حفل الزفاف والاتفاق عليه، وفي يوم الزفاف تكشف الراقصة إلهام حقيقة المجموعة كلها، مما يدعو الأرناؤوطي وبسيوني إلى التوبة، وتحويل الفيلا إلى فندق، لكن أعمال النصب لا تتوقف من قبل سعاد ونوال.</desc>
-  </programme>
-  <programme channel="nilesat.cima" start="20261022230000 +0400" stop="20261023010000 +0400">
-    <title>نقطة رجوع</title>
-    <desc>تنجو (ليلى) من حادث سيارة كبير بأعجوبة، أما زوجها (هاشم  الجوهري) فتعرّض لإصابات بالغة في جسده، مما إضطره لجراحات عديدة ولكن لم تسلم ذاكرته التي فقدها وفقد كل علاقته بالماضي، وليس لديه علم عن ماضيه سوى ما رُوى له من زوجته وبعض الأصدقاء المقربين، وبدأت تتكشف له بعض الحقائق التي لم تروى له.</desc>
-  </programme>
   <programme channel="nilesat.cima" start="20261023010000 +0400" stop="20261023030000 +0400">
     <title>سمكة و٤ قروش</title>
     <desc>تقوم وردة (جالا فهمي) الفتاة الحسناء بالاشتراك مع أربعة لصوص  ، هم فارس (محمد هنيدي) ، ونجاتي (علاء ولي الدين) ، وقرني (كامل الشريف) ، وطريف (أحمد آدم) بسرقة محل للمجوهرات يقع في وسط البلد ، وبعد أن تنجح العملية يحاول كل منهم الفوز بالمسروقات وحده ، فيخفي (قرني) المجوهرات ، وبعد أن يتم القبض عليه تحاول (وردة) الوصول إلى المجوهرات .</desc>
@@ -4352,6 +4136,14 @@
   <programme channel="nilesat.cima" start="20261025010000 +0400" stop="20261025030000 +0400">
     <title>نهاية رجل تزوج</title>
     <desc>يتزوج شمشون من هادية ابنة المعلم محمود السماك، ويفاجأ بعد  الزواج أن حماه قد جعله يوقع عددًا من الشيكات نظير تكاليف الزواج، يتكرر سفر الزوجة للخارج بكثرة بحكم عملها كمترجمة، فيقرر شمشون السفر إلى الصعيد ليتزوج من امرأة أخرى، فيقع اختياره على ناعسة الفتاة الريفية الساذجة ويتزوجها باعتبار أنها ستطيعه في كل شيء، لكنها لا تلبث أن تراقب العالم من حولها وتتمرد وتطالبه بمساواتها بزوجته الأولى.</desc>
+  </programme>
+  <programme channel="nilesat.cima" start="20261025030000 +0400" stop="20261025050000 +0400">
+    <title>ثلاثة على الطريق</title>
+    <desc>محمود سائق لوري، يقوم برحلة من الأقصر إلى طنطا على مدار  يومان، وخلال رحلته على الطريق يركب معه الطفل خليل الذي هرب من قسوة زوجة أبيه لكي يتجه إلى أمه في طنطا، كما تركب معه أيضًا في اللوري تحية لكي يوصلها إلى صديقة لها. وخلال رحلة ثلاثتهم على الطريق، يواجهوا العديد من المشاكل التي تعرقل مسار رحلتهم.</desc>
+  </programme>
+  <programme channel="nilesat.cima" start="20261025050000 +0400" stop="20261025070000 +0400">
+    <title>جوز مراتي</title>
+    <desc>بسبب إستهتاره يطلق أحمد زوجته للمرة الثالثة، ولكنه يريد  العودة لها من جديد، ليبحثا عن محلل، حتى يجدا الأسطى حسن ويتفق معه أحمد على الزواج من زوجته ليلى لمدة يوم واحد، ولكن لوجود شقيق الأسطى حسن يمتد الزواج لعدة أيام، تكتشف فيها ليلى شخصية حسن النبيلة لتتمناه زوجاً لها</desc>
   </programme>
   <programme channel="nilesat.cnn" start="20261024000000 +0000" stop="20261024010000 +0000">
     <title>أندرسون كوبر 360</title>
@@ -4476,18 +4268,6 @@
   <programme channel="nilesat.cnn" start="20261024230000 +0000" stop="20261025000000 +0000">
     <title>سي ان ان نيوزروم سترداي</title>
     <desc>يقدم البرامج تحديثًا لأحدث الأخبار من جميع أنحاء العالم.</desc>
-  </programme>
-  <programme channel="nilesat.dijlahtv" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>أخبار</title>
-  </programme>
-  <programme channel="nilesat.dijlahtv" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>برنامج</title>
-  </programme>
-  <programme channel="nilesat.dijlahtv" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>برنامج</title>
-  </programme>
-  <programme channel="nilesat.dijlahtv" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>برنامج الحكم الرابع</title>
   </programme>
   <programme channel="nilesat.dijlahtv" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>أخبار</title>
@@ -4638,12 +4418,20 @@
   <programme channel="nilesat.dijlahtv" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>أخبار</title>
   </programme>
-  <programme channel="nilesat.dmc" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>برنامج مصر تستطيع</title>
+  <programme channel="nilesat.dijlahtv" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>فيلم</title>
   </programme>
-  <programme channel="nilesat.dmc" start="20261022220000 +0400" stop="20261022233000 +0400">
-    <title>مساء DMC</title>
-    <desc>برنامج توك شو يعرض على شاشة DMC ويقدمه الإعلامي أسامة كمال  وإيمان الحصري، ويقدم البرنامج تغطية عامة شاملة لكل الأخبار التي تخص مصر والدول العربية والعالم.</desc>
+  <programme channel="nilesat.dijlahtv" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.dijlahtv" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج حوار</title>
+  </programme>
+  <programme channel="nilesat.dijlahtv" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج تابوو</title>
+  </programme>
+  <programme channel="nilesat.dijlahtv" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج الحكم الرابع</title>
   </programme>
   <programme channel="nilesat.dmc" start="20261022233000 +0400" stop="20261023021700 +0400">
     <title>فيلم عربي</title>
@@ -4775,17 +4563,16 @@
   <programme channel="nilesat.dmc" start="20261025003000 +0400" stop="20261025013000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.dmcdrama" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>في بيتنا روبوت</title>
-    <desc>يعمل شاب يُدعى يوسف على مشروع تصنيع إنسان آلي بذكاء اصطناعي،  وحينما ينجح في تصنيع النموذجين زومبا ولذيذ، سرعان ما تنقلب حياته وحياة عائلته رأسا على عقب.</desc>
+  <programme channel="nilesat.dmc" start="20261025013000 +0400" stop="20261025030000 +0400">
+    <title>بدون سابق إنذار</title>
+    <desc>تتدهور العلاقة بين الزوجين (مروان) و(ليلى) وتصل إلى نفق  مسدود بالرغم من محاولتهما لإصلاحها، ولكن تأخذ الأمور منعطفًا صادمًا حينما يكتشفا إصابة ابنهما بسرطان الدم، وتتوالى الأحداث.</desc>
   </programme>
-  <programme channel="nilesat.dmcdrama" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>قيد عائلي</title>
-    <desc>تدور أحداث المسلسل حول صراع المال، وتعرض عائلتين لمعارك  عنيفة واختلافهما الشديد بسبب صراع على الميراث، وكيف سيتجاهل الطرفان صلة الرحم بينهما من أجل الثروة.</desc>
-  </programme>
-  <programme channel="nilesat.dmcdrama" start="20261022230000 +0400" stop="20261023000000 +0400">
+  <programme channel="nilesat.dmc" start="20261025030000 +0400" stop="20261025043000 +0400">
     <title>قسمة العدل</title>
     <desc>في إطار درامي تشويقي، يتناول العمل صراع ثلاثة أشقاء على  أملاك وثروة والدهم الحي، بينما تقف أختهم الوحيدة بين أطماعهم المتصاعدة، لتظل النهاية معلقة بسؤال: من ينتصر في هذا الصراع العائلي؟</desc>
+  </programme>
+  <programme channel="nilesat.dmc" start="20261025043000 +0400" stop="20261025070000 +0400">
+    <title>فيلم عربي</title>
   </programme>
   <programme channel="nilesat.dmcdrama" start="20261023000000 +0400" stop="20261023020000 +0400">
     <title>قسمة العدل</title>
@@ -4965,19 +4752,25 @@
     <title>قسمة العدل</title>
     <desc>في إطار درامي تشويقي، يتناول العمل صراع ثلاثة أشقاء على  أملاك وثروة والدهم الحي، بينما تقف أختهم الوحيدة بين أطماعهم المتصاعدة، لتظل النهاية معلقة بسؤال: من ينتصر في هذا الصراع العائلي؟</desc>
   </programme>
-  <programme channel="nilesat.echorouktv" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>برنامج المشاهير live</title>
+  <programme channel="nilesat.dmcdrama" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>العائدون</title>
+    <desc>تدور الأحداث حول محاولات المخابرات المصرية التصدي للإرهاب  متمثلًا في داعش، حيث يقوم العاملون بالمخابرات من ضباط وخبراء اتصال وعملاء سريين كلٌ بدوره في عمليات تهدف إلى حماية الوطن والقضاء على الإرهاب.</desc>
   </programme>
-  <programme channel="nilesat.echorouktv" start="20261022220000 +0400" stop="20261022231500 +0400">
-    <title>Deep in Love</title>
-    <desc>تعيش امرأة قوية ومستقلة على ساحل البحر الأسود، تواجه حياتها  تحديات يومية وصراعات داخلية، في يوم من الأيام، يظهر رجل مضطرب في حياتها، تتشابك مصائرهما وسط العواصف البحرية، لتبدأ رحلة مشتركة تكشف فيها كل منهما نقاط ضعفه وقوته، ويتعلمان معًا معنى الشجاعة والحب والصمود في مواجهة الصعاب.</desc>
+  <programme channel="nilesat.dmcdrama" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>الرجل والحصان</title>
+    <desc>عنتر هو حصان مميز في أحد مراكز الشرطة بالريف استمر في عهدة  الشاويش طلبة سنوات طويلة، وشاخ الحصان ولم يعد قادرا على مطاردة المجرمين فتقرر الشرطة الاستغناء عنه، فيطلب الشاويش شراءه من الحكومة رغم ضيق ذات اليد.</desc>
   </programme>
-  <programme channel="nilesat.echorouktv" start="20261022231500 +0400" stop="20261023002000 +0400">
-    <title>A.B.I.</title>
-    <desc>يبني رجل هوية جديدة بعيداً عن جذوره المضطربة، إلى أن تطفو  أسرار عائلية مدفونة على السطح وتسحبه إلى الظلال التي تركها وراءه.</desc>
+  <programme channel="nilesat.dmcdrama" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>في بيتنا روبوت</title>
+    <desc>يعمل شاب يُدعى يوسف على مشروع تصنيع إنسان آلي بذكاء اصطناعي،  وحينما ينجح في تصنيع النموذجين زومبا ولذيذ، سرعان ما تنقلب حياته وحياة عائلته رأسا على عقب.</desc>
   </programme>
-  <programme channel="nilesat.echorouktv" start="20261023002000 +0400" stop="20261023013000 +0400">
-    <title>برنامج تضحك تخرج</title>
+  <programme channel="nilesat.dmcdrama" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>قيد عائلي</title>
+    <desc>تدور أحداث المسلسل حول صراع المال، وتعرض عائلتين لمعارك  عنيفة واختلافهما الشديد بسبب صراع على الميراث، وكيف سيتجاهل الطرفان صلة الرحم بينهما من أجل الثروة.</desc>
+  </programme>
+  <programme channel="nilesat.dmcdrama" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>الرجل والحصان</title>
+    <desc>عنتر هو حصان مميز في أحد مراكز الشرطة بالريف استمر في عهدة  الشاويش طلبة سنوات طويلة، وشاخ الحصان ولم يعد قادرا على مطاردة المجرمين فتقرر الشرطة الاستغناء عنه، فيطلب الشاويش شراءه من الحكومة رغم ضيق ذات اليد.</desc>
   </programme>
   <programme channel="nilesat.echorouktv" start="20261023013000 +0400" stop="20261023023000 +0400">
     <title>برنامج</title>
@@ -5124,16 +4917,24 @@
   <programme channel="nilesat.echorouktv" start="20261025002000 +0400" stop="20261025013000 +0400">
     <title>برنامج معي في مشروعي</title>
   </programme>
-  <programme channel="nilesat.egyptiantv" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>السقوط في بئر سبع</title>
-    <desc>يدور المسلسل حول قصة حقيقية من ملفات المخابرات المصرية، حول  تجنيد مصري وزوجته للتجسس لصالح إسرائيل، القصة نقلًا عن رواية (إبراهيم وانشراح) للكاتب الصحفي عبدالرحمن فهمي.</desc>
+  <programme channel="nilesat.echorouktv" start="20261025013000 +0400" stop="20261025023000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.egyptiantv" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>التاسعة</title>
-    <desc>برنامج توك شو على القناة اﻷولى المصرية، يهتم باستعراض أهم  الأخبار والأحداث المحلية والعالمية، بالإضافة لاستضافة النجوم في مجال الفن والرياضة والحديث معهم.</desc>
+  <programme channel="nilesat.echorouktv" start="20261025023000 +0400" stop="20261025033000 +0400">
+    <title>Alti Ustu Istanbul</title>
+    <desc>في ضواحي إسطنبول، يكافح (أمير) وأصدقاؤه لتحقيق أحلامهم،  لكنهم يجدون أنفسهم في مواجهة صراعات على النفوذ والمال والخيانة، حيث تدفعهم كل خطوة إلى اتخاذ قرارات لا رجعة فيها، تغير مصائرهم إلى الأبد.</desc>
   </programme>
-  <programme channel="nilesat.egyptiantv" start="20261022230000 +0400" stop="20261023010000 +0400">
-    <title>برنامج من ماسبيرو</title>
+  <programme channel="nilesat.echorouktv" start="20261025033000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.echorouktv" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.echorouktv" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.echorouktv" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج</title>
   </programme>
   <programme channel="nilesat.egyptiantv" start="20261023010000 +0400" stop="20261023030000 +0400">
     <title>برنامج رقم 10</title>
@@ -5275,85 +5076,20 @@
   <programme channel="nilesat.egyptiantv" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>برنامج رقم 10</title>
   </programme>
-  <programme channel="nilesat.france24english" start="20261022170000 +0000" stop="20261022171000 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
+  <programme channel="nilesat.egyptiantv" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.france24english" start="20261022171000 +0000" stop="20261022175300 +0000">
-    <title>The Debate</title>
-    <desc>News program.</desc>
+  <programme channel="nilesat.egyptiantv" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.france24english" start="20261022175300 +0000" stop="20261022180000 +0000">
-    <title>Shortcuts</title>
-    <desc>Bringing the best in television.</desc>
+  <programme channel="nilesat.egyptiantv" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.france24english" start="20261022180000 +0000" stop="20261022182000 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
+  <programme channel="nilesat.egyptiantv" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.france24english" start="20261022182000 +0000" stop="20261022183000 +0000">
-    <title>Sports</title>
-    <desc>In pictures, all the news on world sports from the grounds and elsewhere.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022183000 +0000" stop="20261022184500 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022184500 +0000" stop="20261022185100 +0000">
-    <title>Truth or Fake</title>
-    <desc>The hosts discuss the misinformation circulating the internet and try to find the truth behind online posts.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022185100 +0000" stop="20261022190000 +0000">
-    <title>Focus</title>
-    <desc>An exclusive in-depth report from a FRANCE24 correspondent.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022190000 +0000" stop="20261022192000 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022192000 +0000" stop="20261022193000 +0000">
-    <title>Business</title>
-    <desc>World business and information to understand positive and negative aspects of globalization.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022193000 +0000" stop="20261022194000 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022194000 +0000" stop="20261022200000 +0000">
-    <title>Eye on Africa</title>
-    <desc>News programming.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022200000 +0000" stop="20261022201500 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022201500 +0000" stop="20261022202100 +0000">
-    <title>Business</title>
-    <desc>World business and information to understand positive and negative aspects of globalization.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022202100 +0000" stop="20261022203000 +0000">
-    <title>Truth or Fake</title>
-    <desc>The hosts discuss the misinformation circulating the internet and try to find the truth behind online posts.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022203000 +0000" stop="20261022203200 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022203200 +0000" stop="20261022204400 +0000">
-    <title>A Propos</title>
-    <desc>An in-depth look at the day's key stories.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022204400 +0000" stop="20261022210000 +0000">
-    <title>Eye on Africa</title>
-    <desc>News programming.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022210000 +0000" stop="20261022211500 +0000">
-    <title>News</title>
-    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="nilesat.france24english" start="20261022211500 +0000" stop="20261022213000 +0000">
-    <title>Business Plus Truth or Fake</title>
-    <desc>Observers investigate the accuracy of stories and images circulating online and shed light on how to identify them.</desc>
+  <programme channel="nilesat.egyptiantv" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج</title>
   </programme>
   <programme channel="nilesat.france24english" start="20261022213000 +0000" stop="20261022214500 +0000">
     <title>News</title>
@@ -6499,26 +6235,6 @@
     <title>Reporters</title>
     <desc>Reports from the FRANCE 24 teams and our senior reporters from around the world.</desc>
   </programme>
-  <programme channel="nilesat.kbsworld" start="20261022162000 +0000" stop="20261022173500 +0000">
-    <title>Love on the Menu</title>
-    <desc>Han Kyu-rim, the owner of a side dish shop, reunites with Kim Mu-jin, a chef at an Italian restaurant; they navigate their unresolved feelings while facing the demands of their respective families.</desc>
-  </programme>
-  <programme channel="nilesat.kbsworld" start="20261022173500 +0000" stop="20261022174000 +0000">
-    <title>The Best of Immortal Songs</title>
-    <desc>A compilation of the best moments from</desc>
-  </programme>
-  <programme channel="nilesat.kbsworld" start="20261022174000 +0000" stop="20261022185500 +0000">
-    <title>Welcome to Soogeun School</title>
-    <desc>A chaotic survival adventure unfolds as three rookie teachers run a one-of-a-kind school.</desc>
-  </programme>
-  <programme channel="nilesat.kbsworld" start="20261022185500 +0000" stop="20261022191000 +0000">
-    <title>The Seasons W</title>
-    <desc>A diverse lineup of rotating hosts invites talented musicians to perform their songs and discuss various topics.</desc>
-  </programme>
-  <programme channel="nilesat.kbsworld" start="20261022191000 +0000" stop="20261022202500 +0000">
-    <title>Problem Child In House</title>
-    <desc>A talk show to test common knowledge. People need to pass a set number of questions about common knowledge before they can escape from the rooftop room.</desc>
-  </programme>
   <programme channel="nilesat.kbsworld" start="20261022202500 +0000" stop="20261022214000 +0000">
     <title>Marry Him if You Dare</title>
     <desc>A 32-year-old woman is being helped to meet a perfect spouse by her future self.</desc>
@@ -6829,21 +6545,6 @@
     <title>Music Bank</title>
     <desc>The latest Korean songs and music information of various genres such as K-POP, ballad, and hip-hop are delivered on various stages by singers.</desc>
   </programme>
-  <programme channel="nilesat.ltv" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>السبع</title>
-    <desc>يتناول العمل حياة الغجر، ويسلط الضوء على الصراعات بين  عائلتين بسبب المال والنفوذ، حيث يقع حادث مأساوي يؤثر على الجميع، يجعل الانتقام السبيل الوحيد لتغيير مجرى الأمور.</desc>
-  </programme>
-  <programme channel="nilesat.ltv" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>شارع شيكاغو</title>
-    <desc>عمل رومانسي بوليسي، تدور أحداثه بين حقبتين زمنيتين مختلفتين،  وهما ستينيات القرن الماضي والزمن الحالي.</desc>
-  </programme>
-  <programme channel="nilesat.ltv" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>برنامج</title>
-  </programme>
-  <programme channel="nilesat.ltv" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>عريس تحت الطلب</title>
-    <desc>تدور الأحداث في إطار كوميدي، حول مجموعة من اﻷشخاص يبحثون عن  الحب، والزواج، ويمرون بظروف مختلفة، فتنشئ (دانا) جمعية للتعارف، وتوفيق الأحِبة، وتتوالى الأحداث.</desc>
-  </programme>
   <programme channel="nilesat.ltv" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>سليمو وحريمو</title>
     <desc>في إطار كوميدي ساخر، يتم تقديم سليمو كاتب السيناريو الفاشل  المؤمن باﻷبراج، ويقضي حياته في البحث بين الفتيات، عن شريكة حياة تناسب صفات برجه، ويتعرَّض خلال اﻷحداث لمواقف طريفة، حتى يقابل (مجدولين) الفتاة الجميلة، التي تشبهه في اهتمامها باﻷبراج وتأثيرها على أحداث يومها.</desc>
@@ -7030,31 +6731,24 @@
     <title>سليمو وحريمو</title>
     <desc>في إطار كوميدي ساخر، يتم تقديم سليمو كاتب السيناريو الفاشل  المؤمن باﻷبراج، ويقضي حياته في البحث بين الفتيات، عن شريكة حياة تناسب صفات برجه، ويتعرَّض خلال اﻷحداث لمواقف طريفة، حتى يقابل (مجدولين) الفتاة الجميلة، التي تشبهه في اهتمامها باﻷبراج وتأثيرها على أحداث يومها.</desc>
   </programme>
-  <programme channel="nilesat.masperozaman" start="20261022210000 +0400" stop="20261022213000 +0400">
-    <title>جدو عبده زارع أرضه</title>
-    <desc>تدور أحداث الحلقات حول نبات يزرع بالأرض، من خلال عرض عدد من  المعلومات عنه كاللون والطعم والرائحة والاستخدام، وعلى الجمهور في كل حلقة أن يعرف حل الفزورة.</desc>
+  <programme channel="nilesat.ltv" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>عطر الشام ج2</title>
+    <desc>يستمر (أبو عامر) كبير حارة القصب في القيام بالأعمال الخيرية  ويساعد على حل الخلافات بين الناس، ويجمعهم لمقاومة الاحتلال، إلا أن زوجته الجديدة (زهرية) تقتل فجأة، مما يضعه محل شك من أهل الحارة، خاصة أنه وضع في السجن بتهمة قتلها، كما تتصاعد الأحداث لتكشف خيوط وأسرار من حياة (أبو عامر) وزوجاته وأولاده.</desc>
   </programme>
-  <programme channel="nilesat.masperozaman" start="20261022213000 +0400" stop="20261022220000 +0400">
-    <title>ألف ليلة وليلة: وردشان وماندو</title>
-    <desc>تدور القصة في إطار خيالي، حول السلطان كهلان والذي حُرم من  اﻹنجاب هو وزوجته قمر الزمان، فيسعى الوزير شعلان ﻹقناع السلطان بالزواج من ابنته حتى تنجب له ولي العهد، حتى يقابل الملك الساحرة العجوز والتي تعطيه هو وزوجته تفاحة ليأكلاها ويرزقا بولي العهد، وتتوالى الأحداث.</desc>
+  <programme channel="nilesat.ltv" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>أخبار</title>
   </programme>
-  <programme channel="nilesat.masperozaman" start="20261022220000 +0400" stop="20261022221500 +0400">
-    <title>برنامج حديث الروح</title>
+  <programme channel="nilesat.ltv" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>شارع شيكاغو</title>
+    <desc>عمل رومانسي بوليسي، تدور أحداثه بين حقبتين زمنيتين مختلفتين،  وهما ستينيات القرن الماضي والزمن الحالي.</desc>
   </programme>
-  <programme channel="nilesat.masperozaman" start="20261022221500 +0400" stop="20261022230000 +0400">
-    <title>يوميات ونيس ج2</title>
-    <desc>نرى في هذا الجزء استكمال ونيس (محمد صبحي) وزوجته مايسة (سعاد  نصر) تربية أبناءهما الأربعة على الأخلاق والقيم الصحيحة، وأثناء تأديتهم لهذه الرسالة يكتشفان أنهما يخالفان الكثير من القيم التي يزرعانها في أولادهما، فيحاولان التصحيح من نفسيهما.</desc>
+  <programme channel="nilesat.ltv" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>سليمو وحريمو</title>
+    <desc>في إطار كوميدي ساخر، يتم تقديم سليمو كاتب السيناريو الفاشل  المؤمن باﻷبراج، ويقضي حياته في البحث بين الفتيات، عن شريكة حياة تناسب صفات برجه، ويتعرَّض خلال اﻷحداث لمواقف طريفة، حتى يقابل (مجدولين) الفتاة الجميلة، التي تشبهه في اهتمامها باﻷبراج وتأثيرها على أحداث يومها.</desc>
   </programme>
-  <programme channel="nilesat.masperozaman" start="20261022230000 +0400" stop="20261022233000 +0400">
-    <title>مواقف وطرائف</title>
-    <desc>يقوم البرنامج بعرض عدد من المشاهد من كل أنحاء العالم، وتحتوي  هذه اللقطات على مواقف كوميدية وأخرى على عجائب، وثالثة على معلومات حول الطبيعة، وغيرها من المشاهد التي تُسجل في موسوعة الأرقام القياسية، مثل القدرات الخاصة التي يمتلكها بعض الأشخاص.</desc>
-  </programme>
-  <programme channel="nilesat.masperozaman" start="20261022233000 +0400" stop="20261023001500 +0400">
-    <title>الموسيقي العربية</title>
-  </programme>
-  <programme channel="nilesat.masperozaman" start="20261023001500 +0400" stop="20261023010000 +0400">
-    <title>حياة الجوهري</title>
-    <desc>في إطار درامي اجتماعي تدور أحداث المسلسل، حول حياة الجوهري  (يسرا)، سيدة مثالية لا تقبل الرشوة بالرغم من أنها تشغل منصبًا كبيرًا. ولكنها تتعرض لضغوط كبيرة هذه المرة لقبول رشوة، وتواجه ضغوطًا تمتد إلى زوجها (مصطفى فهمي) في تصاعد الأحداث. فهل ستسقط أمام الإغراء أم أنها ستقف مع مبادئها؟</desc>
+  <programme channel="nilesat.ltv" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>يا أنا يا هي</title>
+    <desc>تدور الأحداث حول سيدة أردنية تمتلك منزلًا في دمشق وتخطط  لبيعه، لكن جارتها السورية تسعى إلى إفشال مخططها من خلال سلسلة من الأحداث الطريفة والمواقف المفاجئة.</desc>
   </programme>
   <programme channel="nilesat.masperozaman" start="20261023010000 +0400" stop="20261023030000 +0400">
     <title>مسرحية</title>
@@ -7292,25 +6986,27 @@
   <programme channel="nilesat.masperozaman" start="20261025010000 +0400" stop="20261025021500 +0400">
     <title>برنامج نجم وسهرة</title>
   </programme>
-  <programme channel="nilesat.mbc1" start="20261022170000 +0000" stop="20261022174000 +0000">
-    <title>عين سحرية  موس</title>
-    <desc>S1 E13
-بدافع الضرورة، يلجأ فني تركيب كاميرات المراقبة إلى تلبية طلبات سرية لعملاء مميزين. ومع كل عدسة يتم تشغيلها، تتعدد زوايا الرؤية وتتكشف الدسائس، حتى يتحول الموظف البسيط إلى عين على ما خفي ومنفذ سري للعدالة.</desc>
+  <programme channel="nilesat.masperozaman" start="20261025021500 +0400" stop="20261025030000 +0400">
+    <title>برنامج اوتجراف وحكايات</title>
   </programme>
-  <programme channel="nilesat.mbc1" start="20261022180000 +0000" stop="20261022183000 +0000">
-    <title>الأخبار MBC</title>
-    <desc>S2026 E263
-نشرة أخبار يومية مسائية تنقل لكم آخر وأهم الأخبار والقضايا الحالية وأحدث تطوراتها. كما تضم النشرة فقرات أخبار عالمية وأخرى منوعة.</desc>
+  <programme channel="nilesat.masperozaman" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>لا إله إلا الله ج4</title>
+    <desc>يتناول الجزء الجديد من المسلسل الديني (لا إله إلا الله -  الجزء 4) قصة سيدنا موسى وصراعه مع فرعون مصر وبني إسرائيل وما بها من أحداث مثيرة وتحولات كثيرة.</desc>
   </programme>
-  <programme channel="nilesat.mbc1" start="20261022183000 +0000" stop="20261022194500 +0000">
-    <title>حفلات موس</title>
-    <desc>S2025 E1
-كونوا على موعد مع حفل غنائي ساحر يحييه الفنان عبدالمجيد عبدالله مباشرة في بوليفارد رياض سيتي.</desc>
+  <programme channel="nilesat.masperozaman" start="20261025040000 +0400" stop="20261025043000 +0400">
+    <title>جدو عبده زارع أرضه</title>
+    <desc>تدور أحداث الحلقات حول نبات يزرع بالأرض، من خلال عرض عدد من  المعلومات عنه كاللون والطعم والرائحة والاستخدام، وعلى الجمهور في كل حلقة أن يعرف حل الفزورة.</desc>
   </programme>
-  <programme channel="nilesat.mbc1" start="20261022200000 +0000" stop="20261022211000 +0000">
-    <title>نادينا</title>
-    <desc>S3 E74
-المنصة المثالية للمشجعين للتعبير عن آرائهم، ومشاركة شغفهم، ومناقشة كل ما يتعلق بمباريات الدوري السعودي وأنديتهم المفضلة.</desc>
+  <programme channel="nilesat.masperozaman" start="20261025043000 +0400" stop="20261025050000 +0400">
+    <title>ألف ليلة وليلة: وردشان وماندو</title>
+    <desc>تدور القصة في إطار خيالي، حول السلطان كهلان والذي حُرم من  اﻹنجاب هو وزوجته قمر الزمان، فيسعى الوزير شعلان ﻹقناع السلطان بالزواج من ابنته حتى تنجب له ولي العهد، حتى يقابل الملك الساحرة العجوز والتي تعطيه هو وزوجته تفاحة ليأكلاها ويرزقا بولي العهد، وتتوالى الأحداث.</desc>
+  </programme>
+  <programme channel="nilesat.masperozaman" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>هي والمستحيل</title>
+    <desc>تدور أحداث المسلسل حول فتاة بسيطة تحارب الظروف ما بين فقر  وضغوط تعمل فى أحد مصانع النسيج بمدينة المحلة الكبري، لتصل إلى تحقيق أحلامها والتي تعتبر في حُكم المستحيل، في ظل ظروف لا تساعدها على تحقيق أي شيء.</desc>
+  </programme>
+  <programme channel="nilesat.masperozaman" start="20261025060000 +0400" stop="20261025063000 +0400">
+    <title>برنامج صالون فنان</title>
   </programme>
   <programme channel="nilesat.mbc1" start="20261022213000 +0000" stop="20261022220000 +0000">
     <title>المدينة البعيدة  موس</title>
@@ -7605,71 +7301,6 @@
     <title>تحت الضغط</title>
     <desc>S1 E7
 تضع نادية الزعبي المشاهير تحت الضغط... لقمة تلو الأخرى. وكلما اشتد تحدي الطعام، ازدادت الأسئلة جرأة. ومع انعدام سبل الهروب، لا يبقى أمام الضيف سوى خيارين: إما أن يقول الحقيقة... أو يتذوقها!\n.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022170000 +0000" stop="20261022172100 +0000">
-    <title>Pac-Man And The Ghostly Adventures موس</title>
-    <desc>S1 E18
-على كوكب باك وورلد، يقدم باك مان وصديقاه سبيرال وسلندريا المساعدة لحماية باكوبوليس من الأشباح، بعد فتح الأبواب الموصدة للعالم السفلي عن طريق الخطأ.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022173000 +0000" stop="20261022175200 +0000">
-    <title>أكاديمية سكايلاندرز</title>
-    <desc>S1 E34
-عندما تهدد قوات شريرة السلام في سكايلاند، يتوجب على سبايرو ونظرائه وضع خلافاتهم جانبا والعمل معا للحفاظ على الأمن.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022180000 +0000" stop="20261022182200 +0000">
-    <title>Shasha &amp; Milo  موس</title>
-    <desc>S1 E18
-يواجه الثنائي شاشا ومايلو مهمة مزدوجة، حيث يتوجب عليهما حماية جزيرة الهلال من قوى الظلام التي تختبئ تحتها، والتأقلم مع تحديات الحياة اليومية في مرحلة ما قبل المراهقة.\r.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022183000 +0000" stop="20261022184500 +0000">
-    <title>كودني</title>
-    <desc>S1 E25
-في العام ٢٠٢٢، يكتشف بلو، البالغ من العمر ١٢ عاما، أن أمه كانت عميلة سرية. عندما ينقل بطريقة غامضة إلى العام ١٩٩٢، يلتقي والدته في سن ال١١ عاما ويتورط عن غير قصد في مهماتها الجاسوسية.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022184500 +0000" stop="20261022190000 +0000">
-    <title>كودني</title>
-    <desc>S1 E26
-الأخيرة.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022190000 +0000" stop="20261022191500 +0000">
-    <title>Trulli Tales الموس</title>
-    <desc>S1 E7
-كعكة قرع شبح\r\n.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022191500 +0000" stop="20261022193000 +0000">
-    <title>Trulli Tales الموس</title>
-    <desc>S1 E8
-الحلوة المجمدة\r\n.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022193000 +0000" stop="20261022194500 +0000">
-    <title>Edmond And Lucy الموس</title>
-    <desc>S1 E27
-تعرفوا على إدموند السنجاب ولوسي الدبة الشبلة وهما ينطلقان في مغامرات شيقة في الغابة مع أفضل رفيقة للعب لهما، وهي الطبيعة.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022194500 +0000" stop="20261022200000 +0000">
-    <title>Edmond And Lucy الموس</title>
-    <desc>S1 E28
-تعرفوا على إدموند السنجاب ولوسي الدبة الشبلة وهما ينطلقان في مغامرات شيقة في الغابة مع أفضل رفيقة للعب لهما، وهي الطبيعة.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022200000 +0000" stop="20261022201500 +0000">
-    <title>The Websters الموس</title>
-    <desc>S1 E7
-انضموا إلى ليلي، العنكبوت الصغيرة، وعائلتها المرحة، وهم يخوضون مغامرات كبيرة ويتعلمون دروسا مؤثرة عن اللطف والأخطاء والتكاتف في عالمهم العنكبوتي الصغير!</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022201500 +0000" stop="20261022203000 +0000">
-    <title>The Websters الموس</title>
-    <desc>S1 E8
-انضموا إلى ليلي، العنكبوت الصغيرة، وعائلتها المرحة، وهم يخوضون مغامرات كبيرة ويتعلمون دروسا مؤثرة عن اللطف والأخطاء والتكاتف في عالمهم العنكبوتي الصغير!</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022203000 +0000" stop="20261022205100 +0000">
-    <title>كامب كورال</title>
-    <desc>S2 E204
-كامب كورال.</desc>
-  </programme>
-  <programme channel="nilesat.mbc3" start="20261022210000 +0000" stop="20261022211600 +0000">
-    <title>Pac-Man And The Ghostly Adventures موس</title>
-    <desc>S1 E19
-على كوكب باك وورلد، يقدم باك مان وصديقاه سبيرال وسلندريا المساعدة لحماية باكوبوليس من الأشباح، بعد فتح الأبواب الموصدة للعالم السفلي عن طريق الخطأ.</desc>
   </programme>
   <programme channel="nilesat.mbc3" start="20261022213000 +0000" stop="20261022215100 +0000">
     <title>أكاديمية سكايلاندرز</title>
@@ -8721,26 +8352,6 @@
     <desc>S1 E35
 عندما تهدد قوات شريرة السلام في سكايلاند، يتوجب على سبايرو ونظرائه وضع خلافاتهم جانبا والعمل معا للحفاظ على الأمن.</desc>
   </programme>
-  <programme channel="nilesat.mbcdrama" start="20261022170000 +0000" stop="20261022175200 +0000">
-    <title>باب الحارة</title>
-    <desc>S5 E18
-يصل أبو دياب إلى الحارة ويفاجأ بوجود مأمون، فيتذكر الماضي الأسود للرجل، ويقرر التنكر على هيئة زبال، ترى ما هو السر الذي يخفيه أبو دياب؟ وما هي حقيقة مأمون؟ أسئلة كثيرة أجوبتها في جعبة زبال الحارة.</desc>
-  </programme>
-  <programme channel="nilesat.mbcdrama" start="20261022180000 +0000" stop="20261022184700 +0000">
-    <title>لعبة نيوتن</title>
-    <desc>S1 E11
-يتخذ رجل وزوجته المتحابين قرارا بإنجاب وليدهما المرتقب على الأراضي الأمريكية طمعا في الجنسية، إلا أن عقبات كثيرة ستعترض طريقهما وتهدد بتدمير زواجهما.</desc>
-  </programme>
-  <programme channel="nilesat.mbcdrama" start="20261022190000 +0000" stop="20261022195100 +0000">
-    <title>مجاريح</title>
-    <desc>S1 E5
-بعد قضاء نصف حياتها في السجن، يتم الإفراج عن غنيمة التي تبلغ 80 سنة من العمر، فيتوجب عليها التخلي عن الماضي والبدء من جديد.</desc>
-  </programme>
-  <programme channel="nilesat.mbcdrama" start="20261022200000 +0000" stop="20261022204800 +0000">
-    <title>الحفرة  موس</title>
-    <desc>S4 E314
-بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.</desc>
-  </programme>
   <programme channel="nilesat.mbcdrama" start="20261022210000 +0000" stop="20261022215400 +0000">
     <title>أبو الملايين</title>
     <desc>S1 E13
@@ -9025,30 +8636,6 @@
     <title>باب الحارة</title>
     <desc>S5 E21
 يصل أبو دياب إلى الحارة ويفاجأ بوجود مأمون، فيتذكر الماضي الأسود للرجل، ويقرر التنكر على هيئة زبال، ترى ما هو السر الذي يخفيه أبو دياب؟ وما هي حقيقة مأمون؟ أسئلة كثيرة أجوبتها في جعبة زبال الحارة.</desc>
-  </programme>
-  <programme channel="nilesat.mbciraq" start="20261022170000 +0000" stop="20261022174900 +0000">
-    <title>عائلتي تربح</title>
-    <desc>S1 E79
-منافسة جديدة بين عائلتي كلكا والزبيدي للإجابة على أسئلة تتعلق بحيوان يصدر صوتا عاليا، مهنة لها علاقة بالنار، وميزة يتمتع بها مقدم البرامج الناجح.</desc>
-  </programme>
-  <programme channel="nilesat.mbciraq" start="20261022180000 +0000" stop="20261022184800 +0000">
-    <title>طيبة الموس</title>
-    <desc>S1 E30
-الأخيرة.</desc>
-  </programme>
-  <programme channel="nilesat.mbciraq" start="20261022190000 +0000" stop="20261022195500 +0000">
-    <title>حفل فبراير الكويت 2017: نبيل شعيل</title>
-    <desc>الحفل الغنائي الذي أحياه الفنان نبيل شعيل خلال مهرجان هلا فبراير الكويت 2017.</desc>
-  </programme>
-  <programme channel="nilesat.mbciraq" start="20261022200000 +0000" stop="20261022203000 +0000">
-    <title>العبقري  موس</title>
-    <desc>S1 E3
-يهدد حاكم إسكندر بأذية أحبته في حال رفض إعادة الألماس. من ناحية أخرى، تشهد علاقة بوران ووالده تطورا ملحوظا.</desc>
-  </programme>
-  <programme channel="nilesat.mbciraq" start="20261022203000 +0000" stop="20261022210700 +0000">
-    <title>مفترق طرق  موس</title>
-    <desc>S1 E12
-تصل قضية جديدة إلى مكتب المحاماة، يتبين لاحقا أنها مرتبطة بشكل غير مباشر بقضية عمر. تتشاجر زينة مع سلوى وتوجه لها كلاما قاسيا.</desc>
   </programme>
   <programme channel="nilesat.mbciraq" start="20261022213000 +0000" stop="20261022221500 +0000">
     <title>عائلتي تربح</title>
@@ -9418,26 +9005,6 @@
     <desc>S1 E29
 في محاولة يائسة للحصول على المال وإنقاذ عمر، تقوم حميدة ببيع كل ما تملكه، ولكنها تجد نفسها وحيدة في النهاية.</desc>
   </programme>
-  <programme channel="nilesat.mbcmasr" start="20261022170000 +0000" stop="20261022174000 +0000">
-    <title>عش</title>
-    <desc>S1 E2
-يتعرض منزل مروان للسرقة وتأخذ رنا مذكراته وتكتشف العائلة وجود خزنة لم يعرفوا بوجودها من قبل. فيما يخرج مروان من المستشفى وقد تغيرت شخصيته تماماً.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasr" start="20261022174000 +0000" stop="20261022182000 +0000">
-    <title>عيون القلب  موس</title>
-    <desc>S1 E9
-تزهر علاقة بين فتاة كفيفة ورجل أعمال ثري رغم كل الصعوبات.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasr" start="20261022183000 +0000" stop="20261022191000 +0000">
-    <title>اللعبة: الكلاسيكو  موس</title>
-    <desc>S5 E2
-بعد طول انتظار، تعود اللعبة إلى مازو ووسيم بشكل وقوانين جديدة.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasr" start="20261022193000 +0000" stop="20261022210000 +0000">
-    <title>أهلاً بالستات</title>
-    <desc>S2026 E178
-يطل عليكم مقدمو البرنامج لمناقشة كل ما يخص المرأة العصرية بينما يحاولون إيجاد جواب للسؤال العظيم: الستات عايزة إيه؟.</desc>
-  </programme>
   <programme channel="nilesat.mbcmasr" start="20261022210000 +0000" stop="20261022215000 +0000">
     <title>ساحرة الجنوب الموس</title>
     <desc>S1 E8
@@ -9738,22 +9305,6 @@
     <desc>S1 E8
 حسن شاكوش.</desc>
   </programme>
-  <programme channel="nilesat.mbcmasrdrama" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>ستيلتو</title>
-    <desc>عندما تهوي جثة من الطابق الأعلى لبيت فخم أثناء حفل كبير،  يستجوب رامي الضابط المسؤول كل الشهود للعثور على القاتل ولكنه يكشف ماضٍ يجمع أربع سيدات هن فلك ألمى جويل ونايلة يتخلله الكراهية والخيانة.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasrdrama" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>حق عرب</title>
-    <desc>تدور الأحداث حول (عرب)، الذي يسعى للهروب من ماضٍ مرير، ولكن  يلقي هذا الماضي بظلاله عليه بين الحين والآخر، فلا يجد من سبيل غير التصدي له ومواجهته، وتتوالى الأحداث.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasrdrama" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>خلي بالك من زيزي</title>
-    <desc>بعد فشل محاولتها للإنجاب مجددا، تضرب الخلافات بين زينب  وزوجها هشام، وسرعان ما يتطور الأمر لساحات القضاء وتصبح زينب في خطر بفقدان كل شيء بجانب الأمومة.</desc>
-  </programme>
-  <programme channel="nilesat.mbcmasrdrama" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>أولاد عابد</title>
-    <desc>تدور الأحداث في منزل عابد المصري، وهو أحد أغنى رجال الأعمال  في مصر، حيث يقع صراع جشع على المال والثروة، وتسبب المنافسة الشديدة تشتتًا بين أفراد العائلة.</desc>
-  </programme>
   <programme channel="nilesat.mbcmasrdrama" start="20261023010000 +0400" stop="20261023014500 +0400">
     <title>Bahar</title>
     <desc>تصبح حياة ربة المنزل (بهار) المليئة بخيبات الأمل ذات معنى  جديد حين تعود من الموت، وتُقرر استكمال حلمها الذي تخلت عنه، ومواجهة المجتمع الذي اعتبرها ميتة.</desc>
@@ -9990,18 +9541,33 @@
     <title>Bahar</title>
     <desc>تصبح حياة ربة المنزل (بهار) المليئة بخيبات الأمل ذات معنى  جديد حين تعود من الموت، وتُقرر استكمال حلمها الذي تخلت عنه، ومواجهة المجتمع الذي اعتبرها ميتة.</desc>
   </programme>
-  <programme channel="nilesat.melodydrama" start="20261022170000 +0000" stop="20261022180000 +0000">
-    <title>Al Waseya</title>
-    <desc>In a comedy about a young man whose father dies, he is left with an enforceable will and asks his friend to help him implement it so that he can get the inheritance.</desc>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025014500 +0400" stop="20261025023000 +0400">
+    <title>رانيا وسكينة</title>
+    <desc>بعدما يتم إتهام الفتاة المدللة رانيا السنهوري بقتل والدها  الثري، تنقلب حياتها رأساً على عقب حيث تجد في طريقها الفتاة المكافحة سكينة والتي هي الأخرى تواجه أخطار لم تكن في الحسبان، فتتحد الفتاتين معاً لمواجهة سلسلة من المغامرات والخروج من أزمتهما.</desc>
   </programme>
-  <programme channel="nilesat.melodydrama" start="20261022180000 +0000" stop="20261022190000 +0000">
-    <title>Hob La Yamout</title>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025023000 +0400" stop="20261025032500 +0400">
+    <title>ستيلتو</title>
+    <desc>عندما تهوي جثة من الطابق الأعلى لبيت فخم أثناء حفل كبير،  يستجوب رامي الضابط المسؤول كل الشهود للعثور على القاتل ولكنه يكشف ماضٍ يجمع أربع سيدات هن فلك ألمى جويل ونايلة يتخلله الكراهية والخيانة.</desc>
   </programme>
-  <programme channel="nilesat.melodydrama" start="20261022190000 +0000" stop="20261022200000 +0000">
-    <title>Ezayy El Seha</title>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025032500 +0400" stop="20261025041000 +0400">
+    <title>حق عرب</title>
+    <desc>تدور الأحداث حول (عرب)، الذي يسعى للهروب من ماضٍ مرير، ولكن  يلقي هذا الماضي بظلاله عليه بين الحين والآخر، فلا يجد من سبيل غير التصدي له ومواجهته، وتتوالى الأحداث.</desc>
   </programme>
-  <programme channel="nilesat.melodydrama" start="20261022200000 +0000" stop="20261022210000 +0000">
-    <title>El Sayad</title>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025041000 +0400" stop="20261025050000 +0400">
+    <title>خلي بالك من زيزي</title>
+    <desc>بعد فشل محاولتها للإنجاب مجددا، تضرب الخلافات بين زينب  وزوجها هشام، وسرعان ما يتطور الأمر لساحات القضاء وتصبح زينب في خطر بفقدان كل شيء بجانب الأمومة.</desc>
+  </programme>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025050000 +0400" stop="20261025054500 +0400">
+    <title>أولاد عابد</title>
+    <desc>تدور الأحداث في منزل عابد المصري، وهو أحد أغنى رجال الأعمال  في مصر، حيث يقع صراع جشع على المال والثروة، وتسبب المنافسة الشديدة تشتتًا بين أفراد العائلة.</desc>
+  </programme>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025054500 +0400" stop="20261025062500 +0400">
+    <title>Bahar</title>
+    <desc>تصبح حياة ربة المنزل (بهار) المليئة بخيبات الأمل ذات معنى  جديد حين تعود من الموت، وتُقرر استكمال حلمها الذي تخلت عنه، ومواجهة المجتمع الذي اعتبرها ميتة.</desc>
+  </programme>
+  <programme channel="nilesat.mbcmasrdrama" start="20261025062500 +0400" stop="20261025071000 +0400">
+    <title>رانيا وسكينة</title>
+    <desc>بعدما يتم إتهام الفتاة المدللة رانيا السنهوري بقتل والدها  الثري، تنقلب حياتها رأساً على عقب حيث تجد في طريقها الفتاة المكافحة سكينة والتي هي الأخرى تواجه أخطار لم تكن في الحسبان، فتتحد الفتاتين معاً لمواجهة سلسلة من المغامرات والخروج من أزمتهما.</desc>
   </programme>
   <programme channel="nilesat.melodydrama" start="20261022210000 +0000" stop="20261022220000 +0000">
     <title>El Khanka</title>
@@ -10187,14 +9753,6 @@
     <title>Al khanka</title>
     <desc>A fitness teacher living a simple life is harassed by one of her students, her suffering increases when everybody treat her like a criminal.</desc>
   </programme>
-  <programme channel="nilesat.mix" start="20261022210000 +0400" stop="20261022230000 +0400">
-    <title>Unstoppable</title>
-    <desc>تدور أحداث الفيلم حول شركة سكة حديد أميركية تقع في كارثة  عظمى، وتحاول تفاديها، هذه الكارثة متمثلة في قطار ضخم للغاية بطول نصف ميل، محمل بمواد قابلة للاشتعال وعبوات غاز سام من الممكن أن تمحي المدينة تمامًا من على الخارطة، وعندما يعلم (فرانك بارنز) وهو سائق قطارات خبير يحاول المساعدة في منع حدوث الكارثة، ويساعده في ذلك مشغل قطارات شاب هو (ويل كولسن)، محاولين تعديل مسار القطار المخيف والمسرع، والفالت عن السيطرة قبل أن يسبب كارثة محققة من الممكن أن تقضي على آلاف البشر.</desc>
-  </programme>
-  <programme channel="nilesat.mix" start="20261022230000 +0400" stop="20261023010000 +0400">
-    <title>Boudica: Queen of War</title>
-    <desc>تدور أحداث الفيلم حول المحاربة التي تحكم شعب أيساني مع زوجها  براسوتاجوس، لكن يقتل الرومان الملك فتصبح مملكة بوديكا بدون وريث ذكر، فتُترك ليستولي الرومان على الأراضي وجميع ممتلكات المملكة.</desc>
-  </programme>
   <programme channel="nilesat.mix" start="20261023010000 +0400" stop="20261023023000 +0400">
     <title>From Paris with Love</title>
     <desc>فى باريس حيث تبدو الحياة رائعة للوهلة اﻷولى، وجيمس يقضى أفضل  أوقاته في صحبة صديقته إلى أن يقابل في طريقه شريكه الجديد تشارلي، ويخوضان معًا حربًا شرسة للبقاء على قيد الحياة، والانتصار على العصابة التي تواجههم.</desc>
@@ -10214,22 +9772,6 @@
   <programme channel="nilesat.mix" start="20261023084500 +0400" stop="20261023104500 +0400">
     <title>Unstoppable</title>
     <desc>تدور أحداث الفيلم حول شركة سكة حديد أميركية تقع في كارثة  عظمى، وتحاول تفاديها، هذه الكارثة متمثلة في قطار ضخم للغاية بطول نصف ميل، محمل بمواد قابلة للاشتعال وعبوات غاز سام من الممكن أن تمحي المدينة تمامًا من على الخارطة، وعندما يعلم (فرانك بارنز) وهو سائق قطارات خبير يحاول المساعدة في منع حدوث الكارثة، ويساعده في ذلك مشغل قطارات شاب هو (ويل كولسن)، محاولين تعديل مسار القطار المخيف والمسرع، والفالت عن السيطرة قبل أن يسبب كارثة محققة من الممكن أن تقضي على آلاف البشر.</desc>
-  </programme>
-  <programme channel="nilesat.mixbelaraby" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>فاطمة ج2</title>
-    <desc>تدور الأحداث في إطار درامي، حيث تبدأ أحداث الموسم بلحظة  الحكم على المعتدين في المحكمة، فتتذكر فاطمة أحداث تلك الليلة الأليمة التي مرت بها بكامل تفاصليها.</desc>
-  </programme>
-  <programme channel="nilesat.mixbelaraby" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>A Miracle S2</title>
-    <desc>يتتبع المسلسل مسيرة علي خلال مواجهة صدمة عائلية بمواجهة  والده الذي تركه في الطفولة، والتغييرات الجوهرية في إدارة المستشفى التي أدت لاختبارات كفاءة الطاقم، بالإضافة إلى تطور علاقته العاطفية مع نازلي.</desc>
-  </programme>
-  <programme channel="nilesat.mixbelaraby" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>Erkenci Kus</title>
-    <desc>سينام شابة طموحة ونشيطة، عندما سمعت من أختها أن الجريدة التي  تعمل فيها أختها بحاجة إلى موظفين جدد، فتدخل سينام الشركة وتعمل فيها، وتبدأ العديد من الأحداث في الوقوع.</desc>
-  </programme>
-  <programme channel="nilesat.mixbelaraby" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>الأوراق المتساقطة 3</title>
-    <desc>تواجه عائلة (تيكين) مشاكل في سداد ديونها، ويتزوج (جيم)  و(نكلا) بعد طلاقها. ويعمل (أوغوز) وكيلا عقاريا ويعيش مع (جيدة) وابنها ثم يتزوجها فيما بعد. بينما تضطر عائلة (تيكين) لبيع القصر فيتدخل (أوغوز) في الأمر بدون علمهم وتتوالى الأحداث.</desc>
   </programme>
   <programme channel="nilesat.mixbelaraby" start="20261023010000 +0400" stop="20261023030000 +0400">
     <title>فيلم</title>
@@ -10412,17 +9954,21 @@
   <programme channel="nilesat.mixbelaraby" start="20261025010000 +0400" stop="20261025030000 +0400">
     <title>فيلم</title>
   </programme>
-  <programme channel="nilesat.mixone" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>البحر الأسود</title>
-    <desc>بعد إجبارها على الزواج من فيدات والذي اعتدى عليها وعذبها،  تقرر يومًا ما أن تهرب نفس رفقة ابنها في سيارة طاهر، والذي قرر فعل كل شيء لإنقاذها من حياتها التعيسة.</desc>
+  <programme channel="nilesat.mixbelaraby" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>Forbidden Apple S5</title>
+    <desc>في الجزء الخامس، تكتشف (يلدز) خيانة (كاجاتاي) لها مع (كومرو)  لكنها سرعان ما تتجاوز هذه الأزمة وتركز على عملها، ثم تقرر الانتقام بعد ذلك وتبدأ سلسلة من الخداع والمؤامرات بين جميع الشخصيات.</desc>
   </programme>
-  <programme channel="nilesat.mixone" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>Wounded Birds</title>
-    <desc>يروي المسلسل قصة أخ وأخت يتيمان يهربان إلى مدينة اسطنبول  التركية، وذلك هربًا من الشخص الذي دمر حياتهما، ويتعلمان في طريقهما الكثير من دروس الحياة العسيرة.</desc>
+  <programme channel="nilesat.mixbelaraby" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>انحراف</title>
+    <desc>المسلسل مأخوذ عن أحداث حقيقية، تدور فى دراما تشويقية مليئة  بالغموض، حول انحراف عدد من الشخصيات عن الطبيعة البشرية؛ يصطدمون بطبيبة نفسية وتقرر تعديل المسار بطريقتها الخاصة.</desc>
   </programme>
-  <programme channel="nilesat.mixone" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>Establishment: Osman S2</title>
-    <desc>في الموسم الثاني، ومع فتح قلعة (كولوكاهيسار)، يقيم (عثمان  بك)، الذي أثار غضب القسطنطينية والإمبراطور، السلام في المنطقة، ويتخذ الإمبراطور البيزنطي إجراءات ضد عثمان بك.</desc>
+  <programme channel="nilesat.mixbelaraby" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>Love, Reason, Get Even</title>
+    <desc>تدور الأحداث في إطار رومانسي كوميدي، حيث ينفصل زوجان بعد عدة  سنوات من الزواج، ثم يصبح الرجل ثريًا فجأة، وتتغير حياته مرة أخرى عندما تبدأ زوجته السابقة العمل معه.</desc>
+  </programme>
+  <programme channel="nilesat.mixbelaraby" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>فاطمة ج2</title>
+    <desc>تدور الأحداث في إطار درامي، حيث تبدأ أحداث الموسم بلحظة  الحكم على المعتدين في المحكمة، فتتذكر فاطمة أحداث تلك الليلة الأليمة التي مرت بها بكامل تفاصليها.</desc>
   </programme>
   <programme channel="nilesat.mixone" start="20261023000000 +0400" stop="20261023030000 +0400">
     <title>فيلم</title>
@@ -10596,21 +10142,21 @@
   <programme channel="nilesat.mixone" start="20261025000000 +0400" stop="20261025030000 +0400">
     <title>فيلم</title>
   </programme>
-  <programme channel="nilesat.ondrama" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>هجمة مرتدة</title>
-    <desc>يتناول المسلسل أحد ملفات المخابرات المصرية، حيث يخوض سيف  ودينا سلسلة من العمليات السرية التي تهدف كشف المؤامرات والمخططات الإرهابية التي تسعى لتقسيم المنطقة العربية، ونشر تنظيم القاعدة بالعالم.</desc>
+  <programme channel="nilesat.mixone" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>Heartbeat</title>
+    <desc>ايلول ايردام جرّاحة مخ واعصاب، تعمل ما بوسعها للوصول إلى  هدفها في عملها بدون أن تكل أو تمل، فهي شخصية مدمنة لعملها، نظرتها للحياة والمشاكل دائما فريدة، حلولها، وتظن أن العشق للناس الضعفاء فقط، حتى تقع في المحظور وهو الحب.</desc>
   </programme>
-  <programme channel="nilesat.ondrama" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>أحلام سعيدة</title>
-    <desc>ثلاث سيدات في منتصف العمر وهن (فريدة وشيرين وليلى) من طبقة  اجتماعية مختلفة، يعانين من الأرق وصعوبة في النوم، يجمعهن القدر سويا ليخضن تجارب ستساعدهن في التغلب على مشاكلهن ومواصلة حياتهن بطريقة أفضل.</desc>
+  <programme channel="nilesat.mixone" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>Saraswatichandra</title>
+    <desc>يتناول العمل قصة الحب بين (ساراس وكومود)، والتي تتأرجح  أحداثها صعودا وهبوطا، لكنها رغم صدق المشاعر تنتهي بالفشل، ويظل (ساراس) يبادل (كومود) الحب غير المشروط رغم زواجها في نهاية المطاف من شخص آخر، فهل تكون هذه نهاية حبها؟ أم تحدث مواقف جديدة تجمعهما مجددا؟</desc>
   </programme>
-  <programme channel="nilesat.ondrama" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>فن الحرب</title>
-    <desc>يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده،  لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.</desc>
+  <programme channel="nilesat.mixone" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>البحر الأسود</title>
+    <desc>بعد إجبارها على الزواج من فيدات والذي اعتدى عليها وعذبها،  تقرر يومًا ما أن تهرب نفس رفقة ابنها في سيارة طاهر، والذي قرر فعل كل شيء لإنقاذها من حياتها التعيسة.</desc>
   </programme>
-  <programme channel="nilesat.ondrama" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>الكبير أوي ج8</title>
-    <desc>في هذا الجزء من المسلسل، يتعرض (الكبير أوي) عمدة قرية  (المزاريطة) لضغوط عديدة، حيث يجد نفسه مضطرًا للاهتمام بقضايا ومشاكل من حوله، ويتعرض لمواقف كوميدية.</desc>
+  <programme channel="nilesat.mixone" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>دكتور أمراض نسا</title>
+    <desc>يرصد المسلسل حياة طبيب أمراض نساء شاب (مصطفى شعبان)، لدي هذا  الطبيب العديد من العلاقات النسائية، ولكنه يقرر أخيرًا الزواج. في ليلة زفافه يجد أن ماضيه يطارده، وكل فضائحه تنكشف، فتنقلب حياته رأسًا على عقب، ويصبح يتعين عليه تصفيه الحسابات القديمة؛ إذا كان يرغب في عيش بقية حياته في سلام. على الجانب الآخر ،توجد شقيقة الطبيب (صابرين)؛ والتي تُعد كأم له نظرًا لعلاقتهما الوطيدة وحبهما الشديد لبعضهم البعض.</desc>
   </programme>
   <programme channel="nilesat.ondrama" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>أبو العروسة ج3</title>
@@ -10808,16 +10354,25 @@
     <title>أبو العروسة ج3</title>
     <desc>في هذا الجزء يواجه عبد الحميد الذى خرج على المعاش مشكلة زواج  ابنته هاجر التى ما زالت تدرس بالجامعة، وتخوفاتها النفسية، ومشاكل ابنته الكبرى زينة مع زوجها طارق، إضافة إلى مشكلة ابنه أكرم مع خطيبته وقراره لترك العمل، وكذلك مشاكل ابنه الأصغر مرزوق.</desc>
   </programme>
-  <programme channel="nilesat.one" start="20261022203000 +0400" stop="20261022220000 +0400">
-    <title>فن الحرب</title>
-    <desc>يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده،  لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.</desc>
+  <programme channel="nilesat.ondrama" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>تاجر السعادة</title>
+    <desc>تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح  (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب "كرامات"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.</desc>
   </programme>
-  <programme channel="nilesat.one" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>برنامج On Set</title>
+  <programme channel="nilesat.ondrama" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>لعبة وقلبت بجد</title>
+    <desc>تنقلب حياة شريف وشروق رأسًا على عقب بسبب إدمان أولادهما لأحد  الألعاب الإلكترونية، ويناقش المسلسل تأثير السوشيال ميديا والألعاب الإلكترونية على حياة العائلة واستقرارها.</desc>
   </programme>
-  <programme channel="nilesat.one" start="20261022230000 +0400" stop="20261023010000 +0400">
-    <title>معكم منى الشاذلي</title>
-    <desc>برنامج أسبوعي منوع، تلتقي فيه منى الشاذلي بالناس بعيدًا عن  زحام الأحداث اليومية وتوتر الأخبار المتلاحقة، لتنقل لهم حكايات حقيقية لم يشاهدوها أو يسمعوها من قبل الأبطال وشخصيات تستحق اﻹحترام.</desc>
+  <programme channel="nilesat.ondrama" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>هجمة مرتدة</title>
+    <desc>يتناول المسلسل أحد ملفات المخابرات المصرية، حيث يخوض سيف  ودينا سلسلة من العمليات السرية التي تهدف كشف المؤامرات والمخططات الإرهابية التي تسعى لتقسيم المنطقة العربية، ونشر تنظيم القاعدة بالعالم.</desc>
+  </programme>
+  <programme channel="nilesat.ondrama" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>أحلام سعيدة</title>
+    <desc>ثلاث سيدات في منتصف العمر وهن (فريدة وشيرين وليلى) من طبقة  اجتماعية مختلفة، يعانين من الأرق وصعوبة في النوم، يجمعهن القدر سويا ليخضن تجارب ستساعدهن في التغلب على مشاكلهن ومواصلة حياتهن بطريقة أفضل.</desc>
+  </programme>
+  <programme channel="nilesat.ondrama" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>تاجر السعادة</title>
+    <desc>تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح  (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب "كرامات"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.</desc>
   </programme>
   <programme channel="nilesat.one" start="20261023010000 +0400" stop="20261023030000 +0400">
     <title>فيلم عربي</title>
@@ -10939,25 +10494,18 @@
   <programme channel="nilesat.one" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.onedrama" start="20261022203000 +0400" stop="20261022213000 +0400">
-    <title>Uzak Sehir</title>
-    <desc>تصل امرأة مع ابنها إلى موطن زوجها الراحل لدفن جثمانه  والمغادرة بسلام، لكن عائلته ذات النفوذ تمنعها من المغادرة وتحدث معارك تُظهر الكثير من الأسرار المظلمة.</desc>
+  <programme channel="nilesat.one" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.onedrama" start="20261022213000 +0400" stop="20261022223000 +0400">
-    <title>الحب لا يفهم الكلام</title>
-    <desc>(حياة) ابنة ريفية لوالديْن صارميْن، تخوض علاقة حب وكراهية مع  رئيسها (مورات). حياة تحمل بداخلها العديد من الأسرار والتي من الممكن أن تدمر علاقتها العاطفية وحياتها المهنية.</desc>
+  <programme channel="nilesat.one" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.onedrama" start="20261022223000 +0400" stop="20261022233000 +0400">
-    <title>Establishment: Osman S1</title>
-    <desc>يستعرض هذا المسلسل في قالب من السيرة والتاريخ حياة عثمان بن  أرطغرل بن سليمان شاه، مؤسس الدولة العثمانية التي حكمت بقاع شتى من العالم على مدار ستة قرون.</desc>
+  <programme channel="nilesat.one" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج تعمير</title>
   </programme>
-  <programme channel="nilesat.onedrama" start="20261022233000 +0400" stop="20261023003000 +0400">
-    <title>Ezel S1</title>
-    <desc>تدور أحداث المسلسل في إطار درامي رومانسي ، حول ثلاثة أصدقاء  (إيزل ، وعلي ، وجنكيز) تتوتر علاقتهم بعد أن يقرر (جنكيز ، وعلي) سرقة بنك بمساعدة (عائشة) حبيبة (إيزل) ، وتوريط (إيزل) في هذه السرقة ، وبعد دخوله السجن بتهمة السرقة يبدأ (إيزل) التخطيط للانتقام من صديقيه وحبيبته ، ووسط دائرة اﻹنتقام والثأر تتكشف حقائق جديدة، وتشتعل جذوة الحب التي حاول أن يطفئها</desc>
-  </programme>
-  <programme channel="nilesat.onedrama" start="20261023003000 +0400" stop="20261023013000 +0400">
-    <title>Cherry Season</title>
-    <desc>تدور قصة العمل عن فتاة حلمها الأكبر أن تصبح مصممة ناجحة،  تعيش حياتها مع والدتها وأخوها، تقع في حب شخص لا يلتفت إليها أبدًا، وهذا الشخص يقع في حب صديقتها المقربة، ثم تقابل شخص آخر مرح ووسيم وتقع في حبه.</desc>
+  <programme channel="nilesat.one" start="20261025050000 +0400" stop="20261025070000 +0400">
+    <title>فن الحرب</title>
+    <desc>يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده،  لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.</desc>
   </programme>
   <programme channel="nilesat.onedrama" start="20261023013000 +0400" stop="20261023023000 +0400">
     <title>My Siblings</title>
@@ -11151,13 +10699,25 @@
     <title>Cherry Season</title>
     <desc>تدور قصة العمل عن فتاة حلمها الأكبر أن تصبح مصممة ناجحة،  تعيش حياتها مع والدتها وأخوها، تقع في حب شخص لا يلتفت إليها أبدًا، وهذا الشخص يقع في حب صديقتها المقربة، ثم تقابل شخص آخر مرح ووسيم وتقع في حبه.</desc>
   </programme>
-  <programme channel="nilesat.onemovies" start="20261022200000 +0400" stop="20261022220000 +0400">
-    <title>The Outfit</title>
-    <desc>يتناول العمل قصة ليوناردو، الخياط الإنجليزي والذي انتهى به  المطاف بالانتقال من لندن وعمله بشارع سافيل رو إلى شيكاغو بسبب مأساة عائلية، ومع إدارته لمتجر صغير في جزء فقير بالمدينة، يبدأ في صناعة العديد من الملابس والأزياء المميزة لصالح رجال العصابات.</desc>
+  <programme channel="nilesat.onedrama" start="20261025013000 +0400" stop="20261025023000 +0400">
+    <title>My Siblings</title>
+    <desc>تدور أحداث المسلسل في إطار درامي حول حياة ومصير أربعة إخوة  بعد وفاة والدهم، حيث يضطرون للكفاح في الحياة ومواجهة مصاعبها التي يمرون بها، ثم تتوالى الأحداث.</desc>
   </programme>
-  <programme channel="nilesat.onemovies" start="20261022220000 +0400" stop="20261023003000 +0400">
-    <title>Mission: Impossible - Dead Reckoning Part One</title>
-    <desc>يعود العميل إيثان هانت لاستخدام قدراته وخبرته لحل المزيد من  الجرائم العالمية، حيث يسعى رفقة زملاؤه لتعقب سلاح مميت قبل أن يقع في الأيدي المظلمة.</desc>
+  <programme channel="nilesat.onedrama" start="20261025023000 +0400" stop="20261025033000 +0400">
+    <title>Ezel S1</title>
+    <desc>تدور أحداث المسلسل في إطار درامي رومانسي ، حول ثلاثة أصدقاء  (إيزل ، وعلي ، وجنكيز) تتوتر علاقتهم بعد أن يقرر (جنكيز ، وعلي) سرقة بنك بمساعدة (عائشة) حبيبة (إيزل) ، وتوريط (إيزل) في هذه السرقة ، وبعد دخوله السجن بتهمة السرقة يبدأ (إيزل) التخطيط للانتقام من صديقيه وحبيبته ، ووسط دائرة اﻹنتقام والثأر تتكشف حقائق جديدة، وتشتعل جذوة الحب التي حاول أن يطفئها</desc>
+  </programme>
+  <programme channel="nilesat.onedrama" start="20261025033000 +0400" stop="20261025043000 +0400">
+    <title>الحب لا يفهم الكلام</title>
+    <desc>(حياة) ابنة ريفية لوالديْن صارميْن، تخوض علاقة حب وكراهية مع  رئيسها (مورات). حياة تحمل بداخلها العديد من الأسرار والتي من الممكن أن تدمر علاقتها العاطفية وحياتها المهنية.</desc>
+  </programme>
+  <programme channel="nilesat.onedrama" start="20261025043000 +0400" stop="20261025053000 +0400">
+    <title>Establishment: Osman S1</title>
+    <desc>يستعرض هذا المسلسل في قالب من السيرة والتاريخ حياة عثمان بن  أرطغرل بن سليمان شاه، مؤسس الدولة العثمانية التي حكمت بقاع شتى من العالم على مدار ستة قرون.</desc>
+  </programme>
+  <programme channel="nilesat.onedrama" start="20261025053000 +0400" stop="20261025063000 +0400">
+    <title>Uzak Sehir</title>
+    <desc>تصل امرأة مع ابنها إلى موطن زوجها الراحل لدفن جثمانه  والمغادرة بسلام، لكن عائلته ذات النفوذ تمنعها من المغادرة وتحدث معارك تُظهر الكثير من الأسرار المظلمة.</desc>
   </programme>
   <programme channel="nilesat.onemovies" start="20261023003000 +0400" stop="20261023020000 +0400">
     <title>The Invisible Man</title>
@@ -11186,18 +10746,6 @@
   <programme channel="nilesat.onemovies" start="20261023120000 +0400" stop="20261023140000 +0400">
     <title>The Invisible Man</title>
     <desc>تتناول العمل قصة امرأة تدعى سيسيليا، حيث تتلقى خبر انتحار  حبيبها السابق، وبينما تحاول بناء حياتها من جديد تكتشف أن حبيبها قد يكون ما يزال على قيد الحياة بصورة أو بأخرى.</desc>
-  </programme>
-  <programme channel="nilesat.rotanacinemaegy" start="20261022160000 +0000" stop="20261022180000 +0000">
-    <title>خيال مآتة</title>
-    <desc>تدور أحداث العمل حول جد يسرق تحفة فنية نادرة ويجد نفسه مطاردًا من الطامعين فيها ، فيلجأ لمساعدة حفيده الوحيد لمساعدته</desc>
-  </programme>
-  <programme channel="nilesat.rotanacinemaegy" start="20261022180000 +0000" stop="20261022190000 +0000">
-    <title>جواب اعتقال</title>
-    <desc>خالد الدجوي ينضم إلى جماعة إرهابية. الذي يرفضه ويحاول منع شقيقه أحمد من الانضمام إليه ، لكن أحمد ينضم إليه ويقتل لاحقا على يد أحد أعضائه. خالد يسعى للانتقام في نفس اللحظة التي يصدر فيها خطاب اعتقال ضده</desc>
-  </programme>
-  <programme channel="nilesat.rotanacinemaegy" start="20261022190000 +0000" stop="20261022210000 +0000">
-    <title>شبكة الموت</title>
-    <desc>يتزعم بسيوني عصابة لتهريب المخدرات من اليونان.وكان على علاقة سابقا بالأرملة الحسناء نور حيث يسعى رئيس المباحث ربيع للقبض عليه بمساعدتها خاصة انها تعاني من إدمان ابنتها للهيروين وتتوالى الاحداث</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaegy" start="20261022210000 +0000" stop="20261022230000 +0000">
     <title>حبيبي نائماً</title>
@@ -11298,14 +10846,6 @@
   <programme channel="nilesat.rotanacinemaegy" start="20261024190000 +0000" stop="20261024210000 +0000">
     <title>سواق الهانم</title>
     <desc>لطيفة هانم من سلالة الأسرة المالكة يعانى زوجها وابنها المستهتر فايق وابنتها أفكار من تسلطها، وتستعين بسائق جيد لكن ابنتها تقع في حبه بينما يحب السائق جارته الفقيرة</desc>
-  </programme>
-  <programme channel="nilesat.rotanacinemaksa" start="20261022160000 +0000" stop="20261022180000 +0000">
-    <title>مش رايحين في داهية</title>
-    <desc>تدور قصة الفيلم في إطار كوميدي حول مجموعة من الشباب الذي لا يهتم بشيء ولا يوجد لديه هدف في الحياة، وكل ما يفعلوه هو عيش حياتهم بطريقة طائشة، حيث يسهرون في النوادي الليلية ويصطحبوا النساء، إلى أن تقع حادثة لهم تغير طريقة تفكيرهم، ولكن ما هذه الحادثة، وكيف ستغير حياتهم؟</desc>
-  </programme>
-  <programme channel="nilesat.rotanacinemaksa" start="20261022180000 +0000" stop="20261022200000 +0000">
-    <title>إزاي البنات تحبك</title>
-    <desc>يُحصل علي منحة في سويسرا و يقع في حبها. عاطف يقع في حب زميلته اللبنانية و هي تحبه.</desc>
   </programme>
   <programme channel="nilesat.rotanacinemaksa" start="20261022200000 +0000" stop="20261022220000 +0000">
     <title>حارة برجوان</title>
@@ -11411,18 +10951,6 @@
     <title>زوج تحت الطلب</title>
     <desc>ممدوح الموظف البسيط نعيم يريده أن يكون محلل للزواج من زوجته السابقة ناهد لأنه طلقها 3 مرات. تقرر أن تلقنه الدرس وتتفق مع ممدوح على الاختفاء فأصبح نعيم قلقا لأن أصوله باسمها</desc>
   </programme>
-  <programme channel="nilesat.rotanaclassic" start="20261022170000 +0000" stop="20261022180000 +0000">
-    <title>حفل أم كلثوم</title>
-    <desc>يوميا تطل علينا سيدة الغناء العربي (أم كلثوم) ، لتتحفنا بحفلة من حفلاتها النادرة، والتى لا يمكن مشاهدتها إلا على شاشة روتانا كلاسيك، حيث يسهر المشاهدون مع كوكب الشرق.</desc>
-  </programme>
-  <programme channel="nilesat.rotanaclassic" start="20261022180000 +0000" stop="20261022203000 +0000">
-    <title>بئر الخيانة</title>
-    <desc>يعيش جابر على سرقة البضائع ويتم القبض عليه وترحيله للجيش. يهرب إلى إيطاليا ويتعاون مع الموساد كجاسوس</desc>
-  </programme>
-  <programme channel="nilesat.rotanaclassic" start="20261022203000 +0000" stop="20261022210000 +0000">
-    <title>اغانى من حفلات قديمة</title>
-    <desc>مجموعة منتقاة من أغاني الحفلات القديمة</desc>
-  </programme>
   <programme channel="nilesat.rotanaclassic" start="20261022210000 +0000" stop="20261022220000 +0000">
     <title>حفل أم كلثوم</title>
     <desc>يوميا تطل علينا سيدة الغناء العربي (أم كلثوم) ، لتتحفنا بحفلة من حفلاتها النادرة، والتى لا يمكن مشاهدتها إلا على شاشة روتانا كلاسيك، حيث يسهر المشاهدون مع كوكب الشرق.</desc>
@@ -11480,8 +11008,8 @@
     <desc>يوميا تطل علينا سيدة الغناء العربي (أم كلثوم) ، لتتحفنا بحفلة من حفلاتها النادرة، والتى لا يمكن مشاهدتها إلا على شاشة روتانا كلاسيك، حيث يسهر المشاهدون مع كوكب الشرق.</desc>
   </programme>
   <programme channel="nilesat.rotanaclassic" start="20261023180000 +0000" stop="20261023203000 +0000">
-    <title>توحة</title>
-    <desc>في حي شعبي تعيش المعلمه توحة ، وتمتلك فرن للعيش يديره دقة و سيد ، مع محل للبقالة يديره بقلظ ، ومجموعة من التاكسيات يديرها علولة ، غير عدد كبير ممن يعملون تحت إمرتها، وهي</desc>
+    <title>بئر الخيانة</title>
+    <desc>يعيش جابر على سرقة البضائع ويتم القبض عليه وترحيله للجيش. يهرب إلى إيطاليا ويتعاون مع الموساد كجاسوس</desc>
   </programme>
   <programme channel="nilesat.rotanaclassic" start="20261023203000 +0000" stop="20261023210000 +0000">
     <title>اغانى من حفلات قديمة</title>
@@ -11544,28 +11072,12 @@
     <desc>يوميا تطل علينا سيدة الغناء العربي (أم كلثوم) ، لتتحفنا بحفلة من حفلاتها النادرة، والتى لا يمكن مشاهدتها إلا على شاشة روتانا كلاسيك، حيث يسهر المشاهدون مع كوكب الشرق.</desc>
   </programme>
   <programme channel="nilesat.rotanaclassic" start="20261024180000 +0000" stop="20261024203000 +0000">
-    <title>أربعة في مهمة رسمية</title>
-    <desc>"أنور عبد المولى" يعمل في الحكومة، لكن حياته تتغير خلال قيامه بمهمة رسمية للمصلحة الحكومية التي يعمل بها، وهي تسليم تركة إلى بيت المال مكونه قرد وحمار ومعزة. مفارقات كوميدية تجعله محاصراً.</desc>
+    <title>توحة</title>
+    <desc>في حي شعبي تعيش المعلمه توحة ، وتمتلك فرن للعيش يديره دقة و سيد ، مع محل للبقالة يديره بقلظ ، ومجموعة من التاكسيات يديرها علولة ، غير عدد كبير ممن يعملون تحت إمرتها، وهي</desc>
   </programme>
   <programme channel="nilesat.rotanaclassic" start="20261024203000 +0000" stop="20261024210000 +0000">
     <title>اغانى من حفلات قديمة</title>
     <desc>مجموعة منتقاة من أغاني الحفلات القديمة</desc>
-  </programme>
-  <programme channel="nilesat.rotanadrama" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>The Phoenix</title>
-    <desc>تُجبر زمرد على الزواج من عم حبيبها سرهات بعد وفاته، لكن هذا  القرار المصيري سيقلب حياتها رأسًا على عقب ويغيّر كل شيء.</desc>
-  </programme>
-  <programme channel="nilesat.rotanadrama" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>سعادة المجنون</title>
-    <desc>في لعبة شطرنج بشرية يقودها الجنون والطمع، تدور أحداث المسلسل  حول "أوس صبري"، الذي يجد نفسه عالقاً في صفقة مع الشيطان. حيث يضطر أوس للاعتراف بجريمة قتل لم يرتكبها، وهي تصفية زوجته القاضية "صبا عزت"، وهرباً من حبل المشنقة، يتواطؤ مع شقيقه المحامي "أشرف" وبشكل قانوني يتدخل وزير العدل، فيُنقل أوس إلى مصح للأمراض العقلية ليقضي عقوبة مخففة لعام واحد، ويخرج لينفذ خطة انتقامه ممن ظلمه.</desc>
-  </programme>
-  <programme channel="nilesat.rotanadrama" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>فضة</title>
-    <desc>تقضي (فضة) حياتها مع زوجة أب قاسية، وأب عاجز لا ينطق ولا  يتحرك، يسمع ويرى عذاب ابنته دون رد الظلم عنها، ومن حولها ثلاث أخوات يذِقنها الظلم وجرح المشاعر، وعندما تكبر (فضة) يلوح لها نور الأمل في (ثامر)، الجار الحنون الذي عاش نفس مأساتها.</desc>
-  </programme>
-  <programme channel="nilesat.rotanadrama" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>ظلم المصطبة</title>
-    <desc>في إحدى المناطق الريفية، يتنافس (حسن) وصديقه (حمادة) على حب  (هند)، ثم يسافر الصديقان إلى الخارج ويعود (حمادة) وحده فيجد الفرصة سانحة أمامه ليتزوجها، بينما يستغل نفوذ شقيقه الشيخ (علاء) من أجل تحقيق مصالحه الشخصية ويفرضان سلطتهما على سكان المنطقة، ثم يعلن (حسن) الحرب عليهما بعد عودته.</desc>
   </programme>
   <programme channel="nilesat.rotanadrama" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>أهل الخطايا</title>
@@ -11763,21 +11275,25 @@
     <title>أهل الخطايا</title>
     <desc>تتناول أحداث القصة عالم السحر والجن، وكيف يسيطر هذا العالم  غير مفهوم على عقول العديد منا ليُستخدم في تحقيق مصالح ومنافع شخصية، وذلك من خلال قصة ضرغام الذي يتصدى لكل هذا مستعينًا بإيمانه القوي.</desc>
   </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261022170000 +0000" stop="20261022183000 +0000">
-    <title>روتانا سبورت مع وليد - الموسم الأول</title>
-    <desc>(روتانا سبورت.. مع وليد) برنامج رياضي حواري يقدمه وليد الفراج، يناقش أبرز قضايا الكرة السعودية ودوري روشن وأخبار الأندية والمنتخبات، مع تحليلات ونقاشات تهم الجماهير.</desc>
+  <programme channel="nilesat.rotanadrama" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>The Phoenix</title>
+    <desc>تُجبر زمرد على الزواج من عم حبيبها سرهات بعد وفاته، لكن هذا  القرار المصيري سيقلب حياتها رأسًا على عقب ويغيّر كل شيء.</desc>
   </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261022183000 +0000" stop="20261022190000 +0000">
-    <title>روميو وياليت</title>
-    <desc>"العازب الأخير" كوميديا ساخرة عن فيصل الأربعيني، تتقلب حياته مع انتقال ثلاث شابات للجوار، فتتصاعد المواقف الطريفة والصراعات الساخرة والفوضى داخل المبنى.</desc>
+  <programme channel="nilesat.rotanadrama" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>المحافظة 15</title>
+    <desc>تحت سماء واحدة أثقلتها الأزمات، تتقاطع حكايات اللبنانيين مع  أنين اللجوء السوري في ملحمةٍ إنسانية تستعرض قسوة التحديات الراهنة. فترصد الأحداث بجرأةٍ بالغة مآسي الفقر، وصراع البقاء، والآمال المعلقة على حبال الانتظار.</desc>
   </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261022190000 +0000" stop="20261022200000 +0000">
-    <title>ياهلا</title>
-    <desc>يناقش برنامج ياهلا القضايا اليومية التي تشغل بال المواطن السعودي خاصة والمجتمع العربي بشكل عام، وذلك من خلال تقارير ميدانية خاصة ولقاءات مع الضيوف في الاستديو، لطرح المشكلات والقضايا الاجتماعية والإنسانية ومحاولة معالجتها</desc>
+  <programme channel="nilesat.rotanadrama" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>فضة</title>
+    <desc>تقضي (فضة) حياتها مع زوجة أب قاسية، وأب عاجز لا ينطق ولا  يتحرك، يسمع ويرى عذاب ابنته دون رد الظلم عنها، ومن حولها ثلاث أخوات يذِقنها الظلم وجرح المشاعر، وعندما تكبر (فضة) يلوح لها نور الأمل في (ثامر)، الجار الحنون الذي عاش نفس مأساتها.</desc>
   </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261022200000 +0000" stop="20261022210000 +0000">
-    <title>درب الذهب</title>
-    <desc>دراما اجتماعية عن الانتقام والصراع العائلي، تكشف الخيانة والطمع وتقلب المصالح، وتعرض تأثير السلطة والطموح على تفكك الروابط العائلية في المجتمع الخليجي.</desc>
+  <programme channel="nilesat.rotanadrama" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>سعادة المجنون</title>
+    <desc>في لعبة شطرنج بشرية يقودها الجنون والطمع، تدور أحداث المسلسل  حول "أوس صبري"، الذي يجد نفسه عالقاً في صفقة مع الشيطان. حيث يضطر أوس للاعتراف بجريمة قتل لم يرتكبها، وهي تصفية زوجته القاضية "صبا عزت"، وهرباً من حبل المشنقة، يتواطؤ مع شقيقه المحامي "أشرف" وبشكل قانوني يتدخل وزير العدل، فيُنقل أوس إلى مصح للأمراض العقلية ليقضي عقوبة مخففة لعام واحد، ويخرج لينفذ خطة انتقامه ممن ظلمه.</desc>
+  </programme>
+  <programme channel="nilesat.rotanadrama" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>لعبة السعادة</title>
+    <desc>يعثر (مسعود) و(مسعد) على خريطة سحرية تخبرهما بأن هناك كنزا  كبيرا ينتظرهما، ولكن هناك شروط للحصول عليه، ويجدان نبوءة بأنه سيولد ابنان في نفس اليوم والساعة والدقيقة، وواحد منهما فقط من سيصل لسر السعادة ويكشف ملامح الخريطة ويحظى بالكنز المنشود.</desc>
   </programme>
   <programme channel="nilesat.rotanakhalijia" start="20261022210000 +0000" stop="20261022223000 +0000">
     <title>روتانا سبورت مع وليد - الموسم الأول</title>
@@ -11875,13 +11391,9 @@
     <title>روميو وياليت</title>
     <desc>"العازب الأخير" كوميديا ساخرة عن فيصل الأربعيني، تتقلب حياته مع انتقال ثلاث شابات للجوار، فتتصاعد المواقف الطريفة والصراعات الساخرة والفوضى داخل المبنى.</desc>
   </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261023190000 +0000" stop="20261023193000 +0000">
-    <title>FOOD TRUCK</title>
-    <desc>اكتشف برنامج فود ترك روتانا، وميزات رائعة للمشاريع الصغيرة ومعلومات عن الطعام الشهي.</desc>
-  </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261023193000 +0000" stop="20261023200000 +0000">
-    <title>حفلات روتانا</title>
-    <desc>حفلات تضم ألمع و أبرز نجوم الغناء في الوطن العربي</desc>
+  <programme channel="nilesat.rotanakhalijia" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title>ياهلا</title>
+    <desc>يناقش برنامج ياهلا القضايا اليومية التي تشغل بال المواطن السعودي خاصة والمجتمع العربي بشكل عام، وذلك من خلال تقارير ميدانية خاصة ولقاءات مع الضيوف في الاستديو، لطرح المشكلات والقضايا الاجتماعية والإنسانية ومحاولة معالجتها</desc>
   </programme>
   <programme channel="nilesat.rotanakhalijia" start="20261023200000 +0000" stop="20261023210000 +0000">
     <title>درب الذهب</title>
@@ -11971,23 +11483,17 @@
     <title>روميو وياليت</title>
     <desc>"العازب الأخير" كوميديا ساخرة عن فيصل الأربعيني، تتقلب حياته مع انتقال ثلاث شابات للجوار، فتتصاعد المواقف الطريفة والصراعات الساخرة والفوضى داخل المبنى.</desc>
   </programme>
-  <programme channel="nilesat.rotanakhalijia" start="20261024190000 +0000" stop="20261024200000 +0000">
+  <programme channel="nilesat.rotanakhalijia" start="20261024190000 +0000" stop="20261024193000 +0000">
+    <title>FOOD TRUCK</title>
+    <desc>اكتشف برنامج فود ترك روتانا، وميزات رائعة للمشاريع الصغيرة ومعلومات عن الطعام الشهي.</desc>
+  </programme>
+  <programme channel="nilesat.rotanakhalijia" start="20261024193000 +0000" stop="20261024200000 +0000">
     <title>حفلات روتانا</title>
     <desc>حفلات تضم ألمع و أبرز نجوم الغناء في الوطن العربي</desc>
   </programme>
   <programme channel="nilesat.rotanakhalijia" start="20261024200000 +0000" stop="20261024210000 +0000">
     <title>درب الذهب</title>
     <desc>دراما اجتماعية عن الانتقام والصراع العائلي، تكشف الخيانة والطمع وتقلب المصالح، وتعرض تأثير السلطة والطموح على تفكك الروابط العائلية في المجتمع الخليجي.</desc>
-  </programme>
-  <programme channel="nilesat.sadaelbalad" start="20261022210000 +0400" stop="20261022223000 +0400">
-    <title>حقائق وأسرار</title>
-    <desc>برنامج يهتم بتقديم المعلومات والأخبار الموثقة، ولا يهتم بذلك  فقط، بل يذهب إلى ما وراء هذه الأخبار والمعلومات، ويحاول التعرف علي كواليسها، لكشف الحقائق والأسرار.</desc>
-  </programme>
-  <programme channel="nilesat.sadaelbalad" start="20261022223000 +0400" stop="20261023003000 +0400">
-    <title>برنامج نظرة</title>
-  </programme>
-  <programme channel="nilesat.sadaelbalad" start="20261023003000 +0400" stop="20261023010000 +0400">
-    <title>برنامج الماتش</title>
   </programme>
   <programme channel="nilesat.sadaelbalad" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>برنامج</title>
@@ -12127,11 +11633,21 @@
   <programme channel="nilesat.sadaelbalad" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.sadaelbalad2" start="20261022210000 +0400" stop="20261022220000 +0400">
+  <programme channel="nilesat.sadaelbalad" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>ريا وسكينة</title>
+    <desc>قصة حياة الأختين (ريا) و(سكينة)، وهما من أشهر مجرمات القرن  العشرين في مصر. روعتا النساء في مطلع القرن وكانتا وراء مقتل العشرات، ويعرض المسلسل الظروف التي أدت إلى تحول الأختين ريا وسكينة إلى مجرمتين مستعرضًا تطورات حياتهما وصلتهما بالمحيطين بهما، وتأثير البيئة التي نشأت فيها الأختان على مستقبلهما.</desc>
+  </programme>
+  <programme channel="nilesat.sadaelbalad" start="20261025030000 +0400" stop="20261025040000 +0400">
     <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.sadaelbalad2" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>برنامج نظرة</title>
+  <programme channel="nilesat.sadaelbalad" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.sadaelbalad" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
+  </programme>
+  <programme channel="nilesat.sadaelbalad" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج</title>
   </programme>
   <programme channel="nilesat.sadaelbalad2" start="20261022230000 +0400" stop="20261023020000 +0400">
     <title>برنامج على مسؤليتي</title>
@@ -12258,25 +11774,20 @@
   <programme channel="nilesat.sadaelbalad2" start="20261024230000 +0400" stop="20261025020000 +0400">
     <title>برنامج على مسؤليتي</title>
   </programme>
-  <programme channel="nilesat.sbc" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>عيلة الملك</title>
-    <desc>في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ  'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.</desc>
+  <programme channel="nilesat.sadaelbalad2" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.sbc" start="20261022220000 +0400" stop="20261022223000 +0400">
-    <title>برنامج طويق</title>
+  <programme channel="nilesat.sadaelbalad2" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.sbc" start="20261022223000 +0400" stop="20261022230000 +0400">
-    <title>برنامج من قلب</title>
+  <programme channel="nilesat.sadaelbalad2" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.sbc" start="20261022230000 +0400" stop="20261022233000 +0400">
-    <title>اسأل روحك</title>
-    <desc>يبدأ وكيل النيابة خالد رحلة البحث عن الحقيقة بعد اهتزاز  الرأي العام بانتشار فيديو صادم لانتحار الممثلة لوجين. ومع كل ورقة يقلبها في ملفات القضية، تنكشف مأساة إنسانية بدأت بهروب غزالة من جحيم الحي الشعبي لتسقط في فخ استغلال المدينة. ويجد خالد نفسه بمواجهة جبهة من الفساد تشن حملة تشويه متعمدة لتشويه سمعة الضحية وطمس معالم الجريمة. وتتحول القضية من مجرد جريمة قتل إلى معركة شرسة لتعرية رؤوس الفساد.</desc>
+  <programme channel="nilesat.sadaelbalad2" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج</title>
   </programme>
-  <programme channel="nilesat.sbc" start="20261022233000 +0400" stop="20261023000000 +0400">
-    <title>برنامج إعمار الأرض 2</title>
-  </programme>
-  <programme channel="nilesat.sbc" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>برنامج دورينا غير</title>
+  <programme channel="nilesat.sadaelbalad2" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج</title>
   </programme>
   <programme channel="nilesat.sbc" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>أوركيديا</title>
@@ -12453,36 +11964,23 @@
     <title>أوركيديا</title>
     <desc>يتناول المسلسل في قالب خيالي العلاقات والصراعات التي تجمع  ثلاث ممالك: أوركيديا التي عُزل عنها اﻷكثم ويخطط عتبة لاستعادتها مرة أخرى، ومملكة سامارا التي يحكمها أنمار، ومملكة آشوريا التي يحكمها الملك الجنابي.</desc>
   </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022170000 +0000" stop="20261022180000 +0000">
-    <title>News</title>
-    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
+  <programme channel="nilesat.sbc" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>راجعين يا هوى</title>
+    <desc>بعد تراكم ديون طائلة عليه في أوروبا، يعود بليغ إلى موطنه  بغية استعادة حقه في الميراث، ولكن سرعان ما تتحول مهمته إلى مسعى للإصلاح ما بين أفراد عائلته.</desc>
   </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022180000 +0000" stop="20261022183000 +0000">
-    <title>News</title>
-    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
+  <programme channel="nilesat.sbc" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج عيش التحدي</title>
   </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022183000 +0000" stop="20261022190000 +0000">
-    <title>Business With Lubna</title>
-    <desc>The host presents the latest business and finance news and discusses trends in the international share and currency markets.</desc>
+  <programme channel="nilesat.sbc" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>ولد ليموت</title>
+    <desc>يتبنى (حمود) الغاضب من أعمال والده الخيرية، وجهة نظر مختلفة  حول ما يجب فعله بأموال عائلته الثرية، مما يدفعه إلى الاتسام بالقسوة، ويقدم على التلخص من والده، ووضع مخطط ليحقق غايته مهما كلفه من دماء.</desc>
   </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022190000 +0000" stop="20261022193000 +0000">
-    <title>News</title>
-    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
+  <programme channel="nilesat.sbc" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>اسأل روحك</title>
+    <desc>يبدأ وكيل النيابة خالد رحلة البحث عن الحقيقة بعد اهتزاز  الرأي العام بانتشار فيديو صادم لانتحار الممثلة لوجين. ومع كل ورقة يقلبها في ملفات القضية، تنكشف مأساة إنسانية بدأت بهروب غزالة من جحيم الحي الشعبي لتسقط في فخ استغلال المدينة. ويجد خالد نفسه بمواجهة جبهة من الفساد تشن حملة تشويه متعمدة لتشويه سمعة الضحية وطمس معالم الجريمة. وتتحول القضية من مجرد جريمة قتل إلى معركة شرسة لتعرية رؤوس الفساد.</desc>
   </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022193000 +0000" stop="20261022200000 +0000">
-    <title>News Radar</title>
-    <desc>The host collates the news and updates pertaining to politics, socio-economic issues and current affairs in the country and around the globe.</desc>
-  </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022200000 +0000" stop="20261022201000 +0000">
-    <title>News</title>
-    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
-  </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022201000 +0000" stop="20261022210000 +0000">
-    <title>Studio 1</title>
-  </programme>
-  <programme channel="nilesat.skynewsarabia" start="20261022210000 +0000" stop="20261022213000 +0000">
-    <title>News</title>
-    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
+  <programme channel="nilesat.sbc" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج مطبخ ضحي</title>
   </programme>
   <programme channel="nilesat.skynewsarabia" start="20261022213000 +0000" stop="20261022220000 +0000">
     <title>Alam Al-Taqa</title>
@@ -12865,15 +12363,6 @@
     <title>Hadeeth Al Arab</title>
     <desc>The host has a one-on-one talk with the invited guests from different fields of culture and controversial issues.</desc>
   </programme>
-  <programme channel="nilesat.tentv" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>برنامج أخر كلام</title>
-  </programme>
-  <programme channel="nilesat.tentv" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>برنامج مع فاروق جويدة</title>
-  </programme>
-  <programme channel="nilesat.tentv" start="20261022230000 +0400" stop="20261023010000 +0400">
-    <title>برنامج البريمو</title>
-  </programme>
   <programme channel="nilesat.tentv" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>نيللي وشريهان</title>
     <desc>تدور أحداث المسلسل في إطار كوميدي اجتماعي، حيث تُجسّد (دنيا)  دور فتاة ثرية تُدعى نيللي، وتجسد (إيمي) شخصية فتاة فقيرة تُدعى شريهان، إلى جانب كونهما ابنتا عم، فهما شخصيتان متنافرتان تمامًا، لكنهما تضطران لتنحية الخلافات جنبًا، لحل لغز ميكي، الذي يوصلهم إلى ميراث جدهما مكاوي أبو الخير.</desc>
@@ -13029,20 +12518,23 @@
     <title>نيللي وشريهان</title>
     <desc>تدور أحداث المسلسل في إطار كوميدي اجتماعي، حيث تُجسّد (دنيا)  دور فتاة ثرية تُدعى نيللي، وتجسد (إيمي) شخصية فتاة فقيرة تُدعى شريهان، إلى جانب كونهما ابنتا عم، فهما شخصيتان متنافرتان تمامًا، لكنهما تضطران لتنحية الخلافات جنبًا، لحل لغز ميكي، الذي يوصلهم إلى ميراث جدهما مكاوي أبو الخير.</desc>
   </programme>
-  <programme channel="nilesat.zeealwan" start="20261022210000 +0400" stop="20261022220000 +0400">
-    <title>Kyunki... Saas Maa Bahu Beti Hoti Hai</title>
-    <desc>لمعارضة الأسطورة الشعبية التي تقول إن زوجات الأبناء تفرّق  الأسرة، تتحدى (أمبيكا) التقاليد بتربية فتاة يتيمة لتصبح زوجة ابن مثالية في المستقبل، بهدف إثبات أن زوجات الأبناء يمكن أن يكنّ مثل بنات الأسرة ويعززن روابط المحبة والتماسك.</desc>
+  <programme channel="nilesat.tentv" start="20261025020000 +0400" stop="20261025022000 +0400">
+    <title>برنامج رحلة الحقيقة</title>
   </programme>
-  <programme channel="nilesat.zeealwan" start="20261022220000 +0400" stop="20261022230000 +0400">
-    <title>برنامج زي كونيكت بالعربي</title>
+  <programme channel="nilesat.tentv" start="20261025022000 +0400" stop="20261025030000 +0400">
+    <title>برنامج تن هوليوود</title>
   </programme>
-  <programme channel="nilesat.zeealwan" start="20261022230000 +0400" stop="20261023000000 +0400">
-    <title>Jamai No. 1</title>
-    <desc>تدور الأحداث حول حياة زوج ابنة بار ومحب يبذل قصارى جهده  للتعامل مع التحديات المختلفة، إلى جانب الحفاظ على الانسجام داخل عائلة زوجته.</desc>
+  <programme channel="nilesat.tentv" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>برنامج هلا بيك</title>
   </programme>
-  <programme channel="nilesat.zeealwan" start="20261023000000 +0400" stop="20261023010000 +0400">
-    <title>Kundali Bhagya</title>
-    <desc>تدور أحداث المسلسل حول الشقيقتين بريتا وسيرشتي، واللتان  يذهبان في مغامرة من أجل البحث عن والدتهما سارلا.</desc>
+  <programme channel="nilesat.tentv" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>برنامج بيزنس</title>
+  </programme>
+  <programme channel="nilesat.tentv" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>برنامج بيت دعاء</title>
+  </programme>
+  <programme channel="nilesat.tentv" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>برنامج صحتين</title>
   </programme>
   <programme channel="nilesat.zeealwan" start="20261023010000 +0400" stop="20261023020000 +0400">
     <title>مسلسل</title>
@@ -13203,5 +12695,25 @@
   <programme channel="nilesat.zeealwan" start="20261025010000 +0400" stop="20261025020000 +0400">
     <title>The Stickman</title>
     <desc>في إطار درامي رومانسي، يحكي العمل قصة حب (تامر) الذي يعمل  مطور ألعاب، والمصرفية (بيري)، اللذين يلتقيان بطريقة غير عادية ويقعان في فخ لعبة خطيرة ولكنها جميلة ومثيرة.</desc>
+  </programme>
+  <programme channel="nilesat.zeealwan" start="20261025020000 +0400" stop="20261025030000 +0400">
+    <title>Lawless Love</title>
+    <desc>تدور أحداث المسلسل في عام 1939 عند وقوع كارثة في منجم في  إحدى مدن الفحم بسبب إهمال من رئيس العمل في المنجم، ويقاتل العاملون من أجل الإطاحة بالرئيس، إلا أن (ديفيد) يقع في حب ابنة الرئيس المهمل أثناء البحث عن حل للقضية.</desc>
+  </programme>
+  <programme channel="nilesat.zeealwan" start="20261025030000 +0400" stop="20261025040000 +0400">
+    <title>Lakshmi's Lucky Destiny</title>
+    <desc>تنقلب حياة لاكشمي رأساً على عقب بسبب إجبار اهلها لها على  الزواج من رجل أعمال غني لا تعرفه حيث تشعر بالخيانة بعد أن عرفت حقيقة زواجها من هذا الرجل لتحقيق مصلحة له.</desc>
+  </programme>
+  <programme channel="nilesat.zeealwan" start="20261025040000 +0400" stop="20261025050000 +0400">
+    <title>Kyunki... Saas Maa Bahu Beti Hoti Hai</title>
+    <desc>لمعارضة الأسطورة الشعبية التي تقول إن زوجات الأبناء تفرّق  الأسرة، تتحدى (أمبيكا) التقاليد بتربية فتاة يتيمة لتصبح زوجة ابن مثالية في المستقبل، بهدف إثبات أن زوجات الأبناء يمكن أن يكنّ مثل بنات الأسرة ويعززن روابط المحبة والتماسك.</desc>
+  </programme>
+  <programme channel="nilesat.zeealwan" start="20261025050000 +0400" stop="20261025060000 +0400">
+    <title>علي كلاي</title>
+    <desc>علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية  في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.</desc>
+  </programme>
+  <programme channel="nilesat.zeealwan" start="20261025060000 +0400" stop="20261025070000 +0400">
+    <title>Jamai No. 1</title>
+    <desc>تدور الأحداث حول حياة زوج ابنة بار ومحب يبذل قصارى جهده  للتعامل مع التحديات المختلفة، إلى جانب الحفاظ على الانسجام داخل عائلة زوجته.</desc>
   </programme>
 </tv>
