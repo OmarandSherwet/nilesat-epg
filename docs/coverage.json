@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-11-03T00:57:26.022344+00:00",
+  "generated_utc": "2026-11-03T14:11:49.943485+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
   "channels_with_real_programmes": 46,
-  "programmes": 3440,
+  "programmes": 3511,
   "programmes_by_source": {
-    "Arabic elCinema": 910,
-    "IPTV EPG Egypt": 660,
-    "nilesat-grab.xml": 1870
+    "Arabic elCinema": 921,
+    "IPTV EPG Egypt": 891,
+    "nilesat-grab.xml": 1699
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -41,7 +41,6 @@
     "AL Resala",
     "AL SABAH",
     "AL SALAM TV",
-    "AL SHARQIYA HD",
     "AL SHARQIYA NEWS HD",
     "AL SHASHA ALWAN",
     "AL SHASHA CINEMA",
@@ -491,6 +490,7 @@
     "Misr Al Zera3eya",
     "Misr ElBald",
     "Misr Quran Kareem",
+    "Mix",
     "Modern Mti",
     "Moga Cinema",
     "Moga Comedy",
