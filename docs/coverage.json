@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-11-04T14:40:23.895461+00:00",
+  "generated_utc": "2026-11-04T23:40:07.053463+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
-  "channels_with_real_programmes": 47,
-  "programmes": 3586,
+  "channels_with_real_programmes": 48,
+  "programmes": 3398,
   "programmes_by_source": {
-    "Arabic elCinema": 1187,
-    "IPTV EPG Egypt": 727,
-    "nilesat-grab.xml": 1672
+    "Arabic elCinema": 1291,
+    "IPTV EPG Egypt": 653,
+    "nilesat-grab.xml": 1454
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -148,7 +148,6 @@
     "Al Shams Drama",
     "Al Sukariya Classic",
     "Al TALEAA HD",
-    "Al Thania",
     "Al Thaqafeya",
     "Al Watania 24",
     "Al Wousta from Al Dhaid HD",
