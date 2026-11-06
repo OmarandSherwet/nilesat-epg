@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-11-06T06:41:31.234164+00:00",
+  "generated_utc": "2026-11-06T19:24:20.700254+00:00",
   "receiver_services": 740,
   "unique_channel_names": 679,
-  "channels_with_real_programmes": 47,
-  "programmes": 3418,
+  "channels_with_real_programmes": 46,
+  "programmes": 3581,
   "programmes_by_source": {
-    "Arabic elCinema": 1257,
-    "IPTV EPG Egypt": 385,
-    "nilesat-grab.xml": 1776
+    "Arabic elCinema": 1189,
+    "IPTV EPG Egypt": 852,
+    "nilesat-grab.xml": 1540
   },
   "feed_errors": {},
   "uncovered_names": [
@@ -529,6 +529,7 @@
     "Oman TV General SD",
     "Oman TV Live HD",
     "Oman TV Sport HD",
+    "One Movies",
     "Oyoun AlWatan",
     "PAYAM TV HD",
     "Palestine",
